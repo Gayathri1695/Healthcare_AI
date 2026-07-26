@@ -1,0 +1,68 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<!-- Hero Section -->
+<section class="hero-section py-5 bg-light" style="background: linear-gradient(to right, var(--light-blue), white);">
+    <div class="container py-5">
+        <div class="row align-items-center">
+            <div class="col-lg-6 mb-4 mb-lg-0">
+                <h1 class="display-4 fw-bold text-primary mb-3">Your AI Health Companion</h1>
+                <p class="lead text-secondary mb-4">Get instant AI-powered preliminary diagnosis based on your symptoms. Connect with the right specialists and manage your health efficiently.</p>
+                <div class="d-flex gap-3">
+                    <a href="{% url 'symptom_checker' %}" class="btn btn-primary btn-lg px-4 shadow-sm"><i class="fas fa-stethoscope me-2"></i>Check Symptoms</a>
+                    <a href="{% url 'symptom_checker' %}" class="btn btn-outline-primary btn-lg px-4 shadow-sm">Find Doctors</a>
+                </div>
+            </div>
+            <div class="col-lg-6 text-center">
+                <!-- Using FontAwesome icon as a placeholder illustration -->
+                <i class="fas fa-user-md text-primary" style="font-size: 15rem; opacity: 0.9;"></i>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Features Section -->
+<section class="features-section py-5">
+    <div class="container py-4">
+        <div class="text-center mb-5">
+            <h2 class="fw-bold">Our Healthcare Services</h2>
+            <p class="text-muted">Comprehensive tools for your well-being</p>
+        </div>
+        <div class="row g-4">
+            <div class="col-md-4">
+                <div class="card h-100 border-0 shadow-sm text-center p-4">
+                    <div class="card-body">
+                        <div class="mb-3">
+                            <i class="fas fa-robot fa-3x text-primary"></i>
+                        </div>
+                        <h5 class="card-title fw-bold">AI Diagnosis</h5>
+                        <p class="card-text text-muted">Enter your symptoms and let our Machine Learning model predict possible conditions instantly.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card h-100 border-0 shadow-sm text-center p-4">
+                    <div class="card-body">
+                        <div class="mb-3">
+                            <i class="fas fa-user-md fa-3x text-primary"></i>
+                        </div>
+                        <h5 class="card-title fw-bold">Specialist Recommendation</h5>
+                        <p class="card-text text-muted">Get matched with the right medical specialists based on your predicted condition.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card h-100 border-0 shadow-sm text-center p-4">
+                    <div class="card-body">
+                        <div class="mb-3">
+                            <i class="fas fa-calendar-check fa-3x text-primary"></i>
+                        </div>
+                        <h5 class="card-title fw-bold">Book Appointments</h5>
+                        <p class="card-text text-muted">Easily schedule, reschedule, or manage your doctor appointments online.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}

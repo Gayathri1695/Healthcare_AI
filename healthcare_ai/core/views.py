@@ -1,7 +1,7 @@
 from django.shortcuts import render, redirect, get_object_or_404
 from django.contrib.auth.decorators import login_required
 from django.contrib import messages
-from django.http import HttpResponse
+from django.http import HttpResponse, FileResponse
 import os
 import joblib
 import numpy as np
@@ -165,4 +165,4 @@ def download_prescription(request):
     p.save()
     
     buffer.seek(0)
-    return HttpResponse(buffer, content_type='application/pdf')
+    return FileResponse(buffer, as_attachment=True, filename='AI_Diagnosis_Report.pdf')

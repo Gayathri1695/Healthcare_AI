@@ -1,0 +1,2001 @@
+fever,cough,fatigue,headache,nausea,sore_throat,shortness_of_breath,chest_pain,dizziness,Disease
+0,0,1,1,0,0,1,0,1,Anemia
+0,0,1,1,0,1,0,0,0,Common Cold
+1,1,1,0,0,1,0,0,1,Flu
+1,1,1,1,1,0,0,0,0,Flu
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,0,0,1,0,1,0,1,Heart Condition
+0,1,1,1,0,0,0,0,1,Anemia
+1,0,0,1,1,0,0,0,1,Food Poisoning
+1,0,1,0,0,1,0,0,0,Flu
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,1,0,0,1,0,1,Anemia
+1,0,1,1,1,0,0,1,1,Food Poisoning
+1,1,1,1,0,1,0,0,1,Flu
+1,1,1,1,0,1,0,0,0,Flu
+0,0,1,1,1,0,0,0,1,Migraine
+0,1,1,1,0,1,0,1,0,Common Cold
+1,1,1,1,0,1,1,0,0,COVID-19
+1,1,1,1,0,1,1,0,0,COVID-19
+0,1,1,1,1,1,0,0,0,Common Cold
+1,0,1,1,0,1,0,0,0,Flu
+0,1,1,0,0,0,1,1,1,Heart Condition
+0,0,1,1,1,0,0,0,1,Migraine
+1,1,0,1,0,1,1,0,0,COVID-19
+0,1,1,1,0,1,1,0,0,Common Cold
+0,1,1,1,0,1,0,0,0,Common Cold
+0,1,1,1,0,0,0,0,0,Flu
+0,0,1,1,1,0,0,1,1,Migraine
+0,0,0,0,0,0,1,1,1,Heart Condition
+0,0,1,1,1,0,1,0,1,Anemia
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,1,1,0,0,1,1,Migraine
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,1,1,1,0,1,0,1,0,Flu
+0,0,1,1,0,0,1,0,1,Anemia
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,1,1,1,1,1,1,0,0,COVID-19
+1,0,1,1,0,0,1,0,1,Anemia
+0,1,0,1,1,0,0,0,1,Migraine
+1,1,1,1,0,1,0,0,1,Flu
+0,1,1,1,1,0,0,0,1,Migraine
+1,0,1,1,0,0,0,0,1,Anemia
+0,0,1,1,0,0,0,1,1,Heart Condition
+1,1,1,1,0,1,1,0,0,COVID-19
+0,0,1,1,0,1,0,0,0,COVID-19
+1,1,1,1,0,1,0,0,1,Flu
+1,0,0,0,1,0,0,0,1,Food Poisoning
+0,1,1,1,0,1,0,0,0,Common Cold
+0,0,0,1,0,0,1,1,1,Anemia
+1,0,1,0,1,0,1,0,1,Food Poisoning
+0,1,1,0,0,1,0,1,1,Heart Condition
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,1,0,1,1,1,1,Anemia
+1,0,1,1,0,0,1,0,0,Anemia
+0,1,0,1,0,1,0,0,0,Common Cold
+0,0,1,1,0,0,1,1,1,Heart Condition
+1,0,1,1,0,1,0,0,0,Flu
+1,1,1,1,1,1,1,0,0,COVID-19
+0,0,1,1,0,0,1,0,1,Anemia
+0,1,1,1,1,1,0,0,0,Common Cold
+0,1,1,1,1,1,1,0,0,COVID-19
+0,1,1,1,0,1,0,0,0,Common Cold
+0,1,1,1,0,1,0,0,0,Common Cold
+1,1,1,1,0,1,0,0,0,Flu
+1,1,1,1,0,1,0,0,0,Common Cold
+1,1,1,1,0,1,1,0,0,COVID-19
+0,0,1,1,1,0,0,0,1,Migraine
+1,1,1,1,0,1,1,0,0,COVID-19
+0,0,1,1,0,0,1,0,0,Anemia
+0,0,1,1,1,0,0,0,1,Food Poisoning
+1,1,1,0,0,1,1,0,0,Flu
+1,1,1,1,0,1,0,0,1,Flu
+0,0,1,1,1,0,0,0,1,Migraine
+0,1,1,1,0,1,0,0,0,Common Cold
+1,1,1,1,0,0,0,1,0,Flu
+1,1,1,1,0,1,0,0,0,Common Cold
+0,0,1,0,1,0,1,1,1,Heart Condition
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,1,1,1,0,1,0,0,0,Common Cold
+0,1,1,1,0,1,0,0,0,Common Cold
+1,1,1,1,0,1,0,0,0,Flu
+1,0,1,1,1,0,0,1,1,Food Poisoning
+0,1,1,1,0,0,1,0,0,Anemia
+1,0,1,1,1,0,0,0,1,Migraine
+0,1,1,0,0,1,1,0,0,Flu
+0,0,1,1,0,0,1,0,0,Anemia
+1,1,0,1,0,0,1,0,0,COVID-19
+0,0,1,1,1,0,0,1,1,Food Poisoning
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,1,1,1,0,1,1,0,0,COVID-19
+1,1,1,1,0,1,0,0,0,Flu
+0,0,1,0,0,0,0,1,1,Heart Condition
+1,0,1,1,1,0,0,0,1,Migraine
+0,1,1,1,0,1,0,0,0,Common Cold
+1,0,1,1,1,1,0,0,1,Food Poisoning
+0,1,1,1,0,1,0,0,0,Common Cold
+0,1,0,1,0,1,0,0,0,Common Cold
+1,1,1,1,0,1,0,0,0,COVID-19
+0,0,1,1,1,0,0,0,0,Migraine
+1,1,1,1,0,1,0,0,0,Flu
+1,0,1,1,0,1,1,0,0,COVID-19
+0,1,1,1,0,1,0,0,0,Common Cold
+0,0,1,0,0,0,1,0,0,Anemia
+0,1,1,1,0,1,0,0,0,Flu
+1,1,1,0,0,0,1,1,0,Heart Condition
+1,0,1,1,0,0,0,1,0,COVID-19
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,1,1,1,0,1,0,0,0,Common Cold
+1,1,1,0,0,1,1,1,0,COVID-19
+0,0,1,0,0,0,0,1,1,Heart Condition
+0,0,1,1,0,0,1,0,1,Anemia
+0,0,1,1,1,1,0,0,1,Food Poisoning
+1,0,1,1,1,0,0,0,1,Anemia
+1,0,1,1,0,0,0,0,1,Food Poisoning
+0,0,1,1,0,1,0,0,0,Flu
+1,0,1,1,1,0,0,0,0,Food Poisoning
+0,0,0,1,1,0,0,0,1,Migraine
+1,1,1,1,0,1,1,0,0,COVID-19
+1,1,1,1,0,1,1,0,0,COVID-19
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,1,0,1,0,1,1,0,0,COVID-19
+1,1,1,1,0,1,0,0,0,Common Cold
+1,1,0,1,1,1,1,0,0,COVID-19
+0,0,1,0,0,1,1,1,1,Heart Condition
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,1,1,1,0,0,0,Common Cold
+0,1,1,1,0,1,0,0,0,Common Cold
+1,1,1,1,0,1,0,0,0,Common Cold
+0,1,1,1,1,0,0,0,1,Food Poisoning
+1,1,1,1,0,0,0,0,0,Flu
+1,1,1,1,0,1,1,0,0,COVID-19
+1,1,1,1,0,1,0,1,0,Flu
+1,1,1,1,0,1,0,0,0,Flu
+1,1,0,1,0,1,1,0,0,COVID-19
+0,0,1,1,1,0,0,0,1,Migraine
+1,1,1,1,0,1,1,0,0,COVID-19
+1,1,1,1,0,1,0,0,0,Common Cold
+1,1,1,1,0,1,0,0,1,Flu
+1,1,1,1,1,1,1,0,0,COVID-19
+1,0,1,1,1,1,0,0,1,Food Poisoning
+1,1,1,1,1,1,1,1,0,COVID-19
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,1,1,1,0,1,1,0,0,Flu
+0,1,1,1,0,1,0,1,0,Common Cold
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,0,0,1,1,0,0,0,1,Migraine
+0,1,1,1,1,0,0,1,0,Common Cold
+1,1,1,1,0,1,0,0,1,Flu
+0,1,1,1,1,0,0,0,1,Migraine
+1,1,1,1,0,1,1,0,1,COVID-19
+1,1,1,1,0,1,1,0,1,Flu
+0,1,1,1,0,1,0,1,0,Flu
+1,1,1,1,0,1,1,0,0,COVID-19
+0,0,1,1,0,0,1,0,1,Anemia
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,1,1,1,0,1,1,0,0,COVID-19
+0,1,1,1,1,1,1,0,0,Common Cold
+1,0,1,0,1,0,0,0,1,Food Poisoning
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,1,1,1,0,1,1,0,0,COVID-19
+1,0,1,1,1,0,1,0,1,Food Poisoning
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,1,1,1,0,1,0,0,0,Flu
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,1,1,1,0,1,0,0,0,Common Cold
+0,1,1,1,0,1,0,0,0,Common Cold
+0,0,1,0,0,0,1,1,0,Heart Condition
+0,0,1,0,0,0,1,0,1,Anemia
+1,1,1,0,0,1,0,1,0,Flu
+1,0,1,1,1,0,0,0,1,Migraine
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,1,1,1,1,1,1,0,0,Common Cold
+0,0,1,1,0,0,1,0,1,Anemia
+0,0,1,1,1,0,1,0,1,Anemia
+0,0,1,1,1,1,0,0,1,Migraine
+1,0,0,1,0,0,0,0,1,Food Poisoning
+0,0,1,1,1,0,0,0,1,Migraine
+1,0,1,1,0,0,1,1,1,Heart Condition
+0,0,1,1,1,0,0,0,1,Migraine
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,1,1,1,0,1,1,0,0,COVID-19
+0,0,0,1,1,0,0,0,1,Food Poisoning
+1,1,1,1,0,1,1,0,1,COVID-19
+0,1,1,1,0,1,0,0,1,Flu
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,1,1,0,0,0,0,Migraine
+1,0,0,0,0,0,0,0,1,Food Poisoning
+0,0,1,0,1,0,1,1,1,Heart Condition
+1,1,1,1,1,1,1,0,0,COVID-19
+1,1,1,1,0,1,0,0,1,Common Cold
+0,0,1,1,0,0,0,0,1,Anemia
+1,1,1,1,0,0,0,0,0,Flu
+0,0,1,0,0,1,0,1,1,Heart Condition
+1,0,0,1,1,0,0,0,1,Food Poisoning
+0,1,1,1,0,1,0,0,0,Common Cold
+1,1,1,1,0,1,0,0,0,Flu
+0,1,1,1,0,1,0,0,0,Common Cold
+1,1,1,1,0,1,1,0,0,COVID-19
+1,1,1,1,0,1,1,0,0,COVID-19
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,0,1,1,0,0,1,0,1,Anemia
+1,1,1,1,0,0,1,0,1,Anemia
+0,0,1,1,1,1,0,0,0,Common Cold
+0,0,0,0,0,0,1,1,1,Heart Condition
+0,1,1,1,1,0,1,0,0,COVID-19
+0,0,1,0,1,0,1,1,1,Heart Condition
+0,1,0,1,0,1,0,0,0,Common Cold
+0,0,1,1,0,1,0,0,0,Common Cold
+0,0,1,1,1,0,0,1,1,Migraine
+0,0,1,0,0,0,1,0,1,Anemia
+1,1,1,0,0,1,1,0,0,COVID-19
+1,1,1,1,1,1,1,0,0,COVID-19
+1,0,1,1,1,1,0,0,1,Food Poisoning
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,1,1,1,0,1,0,0,0,Flu
+0,0,1,1,1,0,1,0,1,Anemia
+0,0,1,1,1,0,0,0,1,Migraine
+0,1,1,1,0,1,0,0,0,Common Cold
+1,0,1,1,1,0,1,0,0,Food Poisoning
+1,0,0,0,1,0,0,0,1,Food Poisoning
+0,0,1,1,1,0,0,0,1,Migraine
+1,1,1,1,0,1,0,0,0,Common Cold
+1,1,1,1,0,1,1,0,0,COVID-19
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,1,1,0,0,1,0,0,0,Common Cold
+0,0,1,0,0,0,1,1,0,Heart Condition
+0,0,1,0,1,0,1,0,1,Heart Condition
+0,1,0,1,0,1,0,0,0,Common Cold
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,0,0,0,0,0,1,1,1,Heart Condition
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,0,1,1,0,0,0,1,Migraine
+1,0,1,1,1,0,1,0,1,Migraine
+0,1,1,1,0,1,1,0,0,Common Cold
+1,1,1,1,0,1,1,0,0,Flu
+1,1,1,1,0,1,0,0,0,Flu
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,1,1,0,1,0,1,Anemia
+1,0,1,1,0,0,1,0,1,Anemia
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,1,0,0,1,0,1,Anemia
+0,1,0,1,0,1,0,0,0,Common Cold
+1,1,0,1,0,1,0,0,0,Flu
+0,1,1,1,0,1,0,0,0,Common Cold
+0,0,1,1,0,0,1,0,1,Anemia
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,1,0,0,1,0,1,Anemia
+1,1,1,1,1,1,0,0,0,Flu
+1,1,1,1,0,1,1,0,0,COVID-19
+0,0,0,0,1,0,1,1,1,Heart Condition
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,0,0,1,1,0,0,0,1,Food Poisoning
+0,1,1,1,0,1,0,0,0,Common Cold
+1,0,1,0,0,0,0,0,1,Food Poisoning
+0,1,1,1,0,0,1,0,0,Common Cold
+0,0,1,1,1,0,0,0,1,Migraine
+1,1,1,1,0,1,1,0,1,COVID-19
+0,0,1,1,1,0,0,1,1,Migraine
+0,0,1,1,0,0,1,0,1,Anemia
+0,0,1,0,0,1,0,0,0,Common Cold
+1,1,1,0,0,1,0,0,0,Flu
+0,0,1,1,0,0,1,0,0,Anemia
+1,1,1,1,0,1,1,0,0,COVID-19
+1,1,1,1,0,0,1,1,0,COVID-19
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,0,1,0,0,0,1,0,0,Anemia
+1,1,1,1,0,0,0,1,0,Flu
+0,0,1,1,0,0,1,1,1,Heart Condition
+1,1,1,1,0,1,1,0,0,COVID-19
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,0,1,1,1,0,0,0,1,Migraine
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,1,0,1,0,1,0,0,0,Flu
+0,0,1,0,0,0,1,0,1,Anemia
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,1,0,1,0,1,0,Common Cold
+0,1,1,1,1,0,0,0,1,Migraine
+1,1,1,0,1,0,0,1,1,Food Poisoning
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,1,1,0,1,1,0,0,0,COVID-19
+0,0,1,0,0,0,1,0,1,Heart Condition
+0,1,1,1,0,1,1,0,0,Common Cold
+1,0,1,1,0,0,0,1,0,Food Poisoning
+0,0,0,1,0,1,0,0,0,Common Cold
+1,1,1,1,0,1,0,1,0,Flu
+0,1,1,1,0,1,0,0,0,Common Cold
+1,0,1,0,0,0,0,0,1,Food Poisoning
+1,0,1,1,1,1,0,0,1,Food Poisoning
+1,1,0,1,0,1,0,0,0,Flu
+1,1,1,1,0,1,1,0,0,COVID-19
+0,1,1,1,0,0,1,0,1,Anemia
+1,1,1,1,0,1,0,0,0,Flu
+0,1,1,1,0,1,0,0,0,Common Cold
+1,0,1,1,0,0,1,0,1,Anemia
+0,0,1,1,0,1,1,0,1,Anemia
+1,0,1,1,1,0,0,0,0,Food Poisoning
+1,0,1,1,1,0,0,0,1,Migraine
+0,0,1,1,0,1,1,0,1,Anemia
+1,1,1,0,0,1,0,0,1,Flu
+0,0,1,1,0,0,1,0,1,Anemia
+1,1,1,0,0,1,0,0,0,Flu
+1,1,1,1,0,1,1,0,0,COVID-19
+0,1,1,0,0,0,1,1,1,Heart Condition
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,1,0,0,1,1,1,Heart Condition
+0,1,0,1,0,1,0,0,0,Common Cold
+1,1,1,1,1,1,0,0,0,Flu
+0,1,0,1,1,0,0,0,1,Common Cold
+0,1,1,1,0,1,1,0,0,COVID-19
+1,1,1,1,0,1,1,0,1,COVID-19
+0,0,1,1,1,0,0,1,1,Migraine
+1,1,1,1,0,1,1,0,0,COVID-19
+0,0,1,1,1,0,0,0,1,Food Poisoning
+1,0,0,1,1,0,0,0,1,Migraine
+1,1,1,1,1,1,1,0,0,COVID-19
+0,1,1,1,0,1,1,0,0,COVID-19
+0,0,1,1,1,0,0,0,1,Migraine
+0,1,1,1,0,1,0,0,0,Common Cold
+0,0,1,0,0,1,1,1,1,Heart Condition
+1,0,1,1,1,0,0,0,1,Migraine
+1,0,1,1,0,1,1,0,0,COVID-19
+1,0,1,1,1,0,0,1,1,Food Poisoning
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,1,1,0,0,0,1,Migraine
+1,0,1,0,1,0,0,0,1,Food Poisoning
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,0,1,1,0,0,1,0,1,Anemia
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,1,1,1,0,1,0,0,0,COVID-19
+0,0,1,1,0,0,1,0,1,Anemia
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,1,0,1,0,1,0,0,0,Flu
+0,1,1,1,0,1,0,0,0,Common Cold
+0,1,1,1,0,1,0,0,0,Common Cold
+0,1,1,1,0,1,0,0,0,COVID-19
+1,0,0,1,0,0,0,0,1,Food Poisoning
+0,1,1,1,0,0,0,0,0,Common Cold
+1,1,1,1,0,1,0,0,0,Flu
+0,0,1,1,0,0,1,0,1,Anemia
+0,1,1,1,0,1,1,0,0,COVID-19
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,1,1,1,1,1,0,0,0,Flu
+0,1,1,1,0,1,0,0,0,Common Cold
+0,0,0,1,0,0,1,0,1,Anemia
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,1,1,1,0,0,1,0,0,Anemia
+1,1,1,1,0,1,0,0,1,Common Cold
+0,1,1,1,0,1,0,0,0,Common Cold
+0,0,1,1,1,0,0,0,0,Migraine
+0,0,1,1,0,0,1,0,1,Anemia
+0,1,0,1,0,0,1,0,1,Anemia
+1,1,1,0,0,1,1,1,0,COVID-19
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,0,1,1,1,0,1,0,0,Migraine
+1,0,1,0,1,0,0,0,1,Food Poisoning
+1,1,1,1,0,1,1,0,0,COVID-19
+1,0,1,1,1,0,0,0,0,Food Poisoning
+1,0,1,0,1,0,1,0,1,Food Poisoning
+1,1,1,1,1,1,1,0,1,COVID-19
+0,1,1,1,0,1,0,0,0,Flu
+1,1,0,1,0,1,0,1,0,Flu
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,0,1,1,1,0,0,0,1,Migraine
+1,1,1,1,0,1,0,0,0,COVID-19
+0,1,1,1,0,1,0,0,0,Common Cold
+0,0,1,1,1,0,1,0,1,Anemia
+0,1,0,1,0,0,1,0,1,Anemia
+0,1,1,0,1,1,0,0,0,Common Cold
+0,1,1,1,0,0,0,0,0,Common Cold
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,0,1,0,0,0,1,Anemia
+1,0,1,1,1,0,1,0,1,Food Poisoning
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,0,1,1,0,1,0,1,Anemia
+0,0,1,1,0,1,1,0,1,Anemia
+0,1,1,1,0,0,0,1,0,Common Cold
+1,1,1,1,0,1,0,1,0,Flu
+1,0,1,1,0,0,0,0,1,Food Poisoning
+1,0,1,0,1,1,0,0,0,Flu
+0,0,1,0,1,0,0,1,1,Migraine
+1,1,1,0,0,1,1,0,0,COVID-19
+0,0,0,1,0,0,1,0,1,Anemia
+1,1,1,1,0,1,1,0,0,Flu
+1,1,1,0,0,1,0,1,0,Flu
+0,0,1,0,1,0,1,1,1,Heart Condition
+1,0,0,1,1,0,0,0,1,Food Poisoning
+0,0,1,1,1,0,0,0,1,Migraine
+1,1,1,1,0,1,1,0,0,COVID-19
+0,0,1,1,0,0,1,0,1,Anemia
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,1,1,1,0,1,0,1,0,Flu
+0,0,0,0,0,0,1,1,1,Heart Condition
+0,1,1,1,0,0,0,0,0,Common Cold
+0,0,1,1,0,0,1,0,1,Anemia
+0,0,1,1,0,1,0,0,1,Common Cold
+1,0,1,0,1,0,1,0,1,Anemia
+1,1,1,1,0,1,1,1,0,COVID-19
+0,1,1,1,1,0,0,0,1,Migraine
+0,1,1,1,0,1,0,0,0,Common Cold
+1,1,1,1,1,1,0,0,0,Common Cold
+1,1,1,1,0,1,1,0,0,Flu
+0,0,1,1,0,0,1,0,1,Anemia
+0,1,0,1,0,1,0,0,1,Common Cold
+0,1,1,1,0,1,0,0,0,Common Cold
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,1,0,0,1,1,1,Anemia
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,1,0,0,1,0,1,Anemia
+0,0,1,1,1,0,0,0,0,Migraine
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,1,1,0,1,0,1,Migraine
+1,1,1,1,0,0,1,0,1,Anemia
+0,0,1,1,1,0,0,0,1,Migraine
+1,0,1,1,1,1,0,0,1,Food Poisoning
+1,1,1,1,0,0,1,0,0,COVID-19
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,0,1,1,1,0,0,0,0,Food Poisoning
+1,1,1,1,0,1,1,0,0,COVID-19
+0,1,1,1,1,1,0,0,0,Common Cold
+1,0,1,1,0,0,0,0,1,Food Poisoning
+0,1,1,0,0,0,1,1,1,Heart Condition
+1,1,1,1,0,1,1,0,0,Common Cold
+0,0,1,1,0,0,1,1,1,Heart Condition
+0,0,1,1,0,0,1,0,1,Anemia
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,0,1,0,0,1,0,1,Anemia
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,1,0,0,0,0,1,Migraine
+0,0,1,1,1,1,0,0,1,Migraine
+0,0,1,0,1,0,0,0,0,Migraine
+1,1,1,1,0,1,1,0,0,COVID-19
+0,0,1,1,0,0,0,0,1,Anemia
+0,1,1,0,0,0,0,0,0,Flu
+1,1,1,0,0,1,0,0,0,Flu
+0,0,1,1,0,0,0,1,1,Heart Condition
+1,0,1,1,0,0,1,0,1,Food Poisoning
+0,0,1,1,0,0,1,0,1,Anemia
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,0,1,1,1,0,1,0,1,Anemia
+0,1,1,1,0,0,1,0,0,Anemia
+1,1,1,1,0,1,0,0,0,Flu
+1,0,1,1,1,1,0,0,1,Food Poisoning
+0,1,1,1,0,1,0,1,0,Common Cold
+0,0,0,1,0,0,1,0,1,Anemia
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,1,0,0,0,0,1,Migraine
+0,1,1,1,0,1,1,0,0,Common Cold
+0,1,1,0,0,0,1,1,0,Heart Condition
+1,1,1,1,0,0,0,1,0,Flu
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,0,1,0,0,0,1,Migraine
+1,1,1,1,0,1,0,0,0,Flu
+0,1,1,1,0,0,1,0,0,Anemia
+0,0,1,1,0,0,1,0,1,Anemia
+1,0,1,1,1,0,1,0,1,Food Poisoning
+1,0,1,1,1,0,0,0,1,Migraine
+0,0,1,1,0,0,1,0,1,Anemia
+1,1,1,1,0,1,1,0,0,COVID-19
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,0,1,1,0,1,1,0,0,COVID-19
+0,1,1,1,0,1,0,0,0,Common Cold
+1,1,1,1,0,1,0,0,0,Flu
+0,0,1,1,0,0,1,0,1,Anemia
+1,1,1,1,0,1,0,0,1,Flu
+0,0,1,1,0,0,0,1,1,Anemia
+0,0,1,1,0,0,0,0,1,Anemia
+1,0,1,1,1,0,0,1,1,Food Poisoning
+0,0,1,1,0,0,1,0,0,Anemia
+1,1,1,1,0,1,1,0,0,COVID-19
+0,0,1,1,0,1,0,0,0,Common Cold
+0,0,1,1,1,0,0,0,1,Migraine
+1,0,1,1,1,0,1,0,1,Anemia
+0,0,1,0,0,0,1,0,1,Heart Condition
+0,0,0,1,0,0,1,0,1,Anemia
+0,0,1,1,0,0,0,0,1,Migraine
+1,1,1,1,0,1,1,0,0,COVID-19
+0,0,1,1,0,0,1,1,1,Heart Condition
+1,0,1,1,0,1,0,0,0,COVID-19
+1,0,1,0,1,0,0,0,1,Food Poisoning
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,1,1,0,0,0,1,Migraine
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,1,0,1,0,1,1,0,0,COVID-19
+1,1,1,1,0,1,0,0,0,Flu
+1,0,1,1,1,0,0,0,1,Migraine
+0,0,1,1,0,0,1,0,1,Anemia
+0,0,1,0,0,0,1,0,1,Anemia
+1,0,1,0,1,1,1,0,1,Migraine
+0,0,1,1,0,0,0,0,1,Anemia
+1,1,1,0,0,1,1,1,0,COVID-19
+0,0,0,1,0,0,1,1,1,Anemia
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,1,0,0,1,0,1,Anemia
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,1,0,0,0,1,0,0,1,Flu
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,1,0,1,0,0,0,Flu
+0,0,1,1,0,0,0,0,1,Anemia
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,1,0,0,1,0,1,Anemia
+1,1,1,1,1,1,0,0,0,Flu
+1,1,1,1,0,1,0,0,0,Flu
+1,0,1,1,0,1,0,0,0,COVID-19
+0,1,1,1,0,1,0,0,0,Common Cold
+1,1,1,0,0,1,0,0,0,Flu
+0,1,1,1,0,0,1,0,1,Anemia
+1,1,1,1,0,1,0,0,0,Flu
+1,1,1,1,0,1,1,0,0,COVID-19
+1,1,1,1,0,1,0,0,0,Flu
+1,1,1,1,0,1,1,0,0,Flu
+0,0,0,1,1,0,0,0,1,Migraine
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,1,1,1,0,1,0,0,0,Common Cold
+1,1,0,1,1,1,1,0,0,COVID-19
+1,1,1,1,0,1,0,0,0,Flu
+1,1,1,1,0,1,0,0,0,Common Cold
+0,1,1,1,0,1,0,0,0,Common Cold
+0,0,0,1,0,0,1,1,1,Heart Condition
+0,0,1,1,1,0,0,0,1,Migraine
+1,1,1,1,0,1,0,0,0,Flu
+0,1,1,1,1,0,0,0,1,Migraine
+1,1,1,1,0,1,0,0,0,Flu
+1,0,1,0,1,0,0,0,1,Food Poisoning
+1,1,1,1,0,1,0,0,0,COVID-19
+1,1,1,1,0,1,0,0,1,Flu
+1,0,1,1,1,1,0,0,1,Migraine
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,1,0,0,1,0,1,Anemia
+1,0,1,1,1,1,0,1,1,Food Poisoning
+0,0,1,1,0,0,1,1,1,Anemia
+0,0,1,0,0,1,1,0,0,Common Cold
+1,0,1,1,0,1,0,0,0,Flu
+1,0,1,1,1,0,0,0,1,Migraine
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,0,1,1,0,0,0,0,1,Food Poisoning
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,0,1,1,0,0,1,0,1,Anemia
+0,1,1,0,0,0,1,1,1,Heart Condition
+0,0,1,1,0,0,1,0,1,Anemia
+0,1,1,1,0,1,0,0,0,Common Cold
+1,1,1,1,0,1,1,0,0,COVID-19
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,1,1,0,0,0,0,Food Poisoning
+0,0,1,1,1,1,1,0,1,Migraine
+0,0,1,0,1,0,1,1,1,Heart Condition
+0,1,1,1,0,1,0,0,1,Common Cold
+0,0,1,1,0,1,1,0,1,Anemia
+0,1,1,1,0,1,1,0,0,Common Cold
+1,1,1,1,0,1,0,0,0,Flu
+1,1,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,1,0,0,1,0,1,Anemia
+0,1,1,1,1,1,0,0,0,Common Cold
+0,1,1,1,1,0,0,0,1,Migraine
+1,1,1,1,1,1,0,0,0,Common Cold
+0,0,1,1,0,0,1,1,1,Anemia
+1,0,1,1,0,0,1,0,0,COVID-19
+0,0,1,1,0,0,0,0,1,Migraine
+1,0,1,0,1,0,0,0,1,Food Poisoning
+0,0,1,1,1,0,0,0,1,Migraine
+0,1,1,1,0,1,0,0,0,Common Cold
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,1,1,1,1,0,1,0,0,COVID-19
+1,1,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,1,0,0,1,1,1,Anemia
+0,0,1,1,0,0,0,0,1,Migraine
+1,1,1,1,0,1,1,0,0,COVID-19
+1,1,1,1,0,1,1,0,0,COVID-19
+0,0,1,0,0,1,1,1,1,Heart Condition
+1,0,1,1,1,0,0,1,1,Food Poisoning
+0,0,1,0,0,0,1,0,1,Anemia
+0,0,1,1,1,1,1,0,1,Food Poisoning
+1,1,1,1,0,1,1,0,0,COVID-19
+0,0,1,0,0,1,1,1,1,Heart Condition
+1,0,0,1,0,1,0,0,0,Flu
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,0,1,0,1,1,1,Heart Condition
+0,1,1,1,0,1,0,0,0,Common Cold
+1,1,1,1,0,1,1,0,0,COVID-19
+0,1,1,0,1,1,1,1,1,Heart Condition
+0,0,1,1,0,0,1,0,1,Anemia
+1,1,1,1,0,1,1,0,0,COVID-19
+1,1,1,1,1,0,1,0,1,Food Poisoning
+0,0,1,0,0,0,1,0,0,Anemia
+0,1,1,1,0,1,0,0,0,Common Cold
+1,0,0,1,0,1,1,0,0,COVID-19
+0,0,1,1,0,0,1,0,1,Anemia
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,1,0,0,0,0,1,Anemia
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,0,1,1,1,1,1,0,1,Migraine
+1,1,1,1,0,1,0,0,0,Flu
+0,0,1,1,0,0,1,0,1,Anemia
+1,1,1,1,1,0,0,0,1,Food Poisoning
+0,0,0,1,1,0,0,0,1,Migraine
+1,1,1,0,0,1,1,1,0,COVID-19
+1,1,1,1,0,1,0,0,0,Flu
+1,1,1,1,0,1,1,1,0,COVID-19
+0,0,1,0,0,0,1,0,1,Heart Condition
+0,0,1,1,1,0,0,0,1,Migraine
+1,1,1,1,0,1,1,0,0,Flu
+0,1,1,1,0,1,0,0,0,Common Cold
+0,0,1,1,1,0,0,0,1,Migraine
+1,1,1,0,0,1,1,1,0,COVID-19
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,1,1,1,0,1,1,0,0,COVID-19
+0,1,1,0,1,1,0,0,0,Common Cold
+0,0,1,0,0,0,1,0,1,Anemia
+0,1,1,1,0,1,0,0,1,Common Cold
+1,1,1,1,0,1,1,1,0,COVID-19
+1,0,1,1,1,1,1,0,0,COVID-19
+0,0,1,0,0,1,1,1,1,Heart Condition
+1,0,1,1,1,0,0,1,1,Food Poisoning
+0,0,1,1,1,0,0,1,1,Food Poisoning
+0,0,1,1,0,0,0,1,1,Anemia
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,1,1,0,0,0,1,Migraine
+1,1,1,1,0,0,1,0,0,Anemia
+1,1,1,1,0,1,1,0,0,COVID-19
+0,0,1,1,0,0,1,1,1,Anemia
+1,1,1,1,0,1,0,0,0,Flu
+1,1,1,1,0,1,0,0,0,Flu
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,1,0,1,0,0,0,Common Cold
+1,0,1,1,0,1,0,0,1,Food Poisoning
+1,1,1,1,1,1,1,0,0,COVID-19
+1,0,1,1,1,1,0,0,1,Food Poisoning
+0,0,1,0,1,0,1,1,1,Heart Condition
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,1,1,0,0,0,1,1,1,Heart Condition
+1,1,1,1,0,1,1,0,0,COVID-19
+1,1,1,1,0,1,0,0,0,Flu
+0,0,1,0,0,0,1,0,1,Heart Condition
+1,1,1,1,0,1,0,1,0,Flu
+0,0,1,0,0,0,1,0,1,Heart Condition
+0,0,1,1,0,1,0,0,0,Common Cold
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,1,0,0,1,1,1,Heart Condition
+0,0,1,1,1,0,0,1,1,Migraine
+1,1,1,1,0,1,1,0,0,COVID-19
+0,0,1,1,0,0,1,0,1,Anemia
+0,0,1,1,0,0,1,1,0,Heart Condition
+0,1,1,1,0,1,1,0,0,COVID-19
+1,0,1,1,1,0,0,1,1,Food Poisoning
+0,1,1,1,0,0,1,0,1,Anemia
+0,1,1,1,0,1,0,0,0,Common Cold
+0,0,1,1,0,1,1,0,1,Anemia
+1,1,1,1,0,1,1,0,0,COVID-19
+1,1,1,1,0,1,1,0,0,COVID-19
+1,0,1,1,1,0,0,0,1,Migraine
+1,0,1,1,0,1,0,0,1,Flu
+0,1,1,1,0,1,1,0,0,COVID-19
+0,0,0,1,0,0,1,0,1,Anemia
+1,1,1,1,1,0,0,0,1,Food Poisoning
+1,1,1,1,0,1,0,0,0,Common Cold
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,1,1,1,0,1,0,0,0,Common Cold
+0,0,0,1,0,1,1,0,1,Anemia
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,1,0,1,0,1,0,0,0,Common Cold
+0,1,1,0,0,0,1,1,1,Heart Condition
+0,1,1,1,0,1,1,0,0,Flu
+0,0,1,0,0,1,0,0,0,Common Cold
+1,1,0,1,0,1,1,0,0,COVID-19
+1,0,1,0,1,0,0,0,1,Food Poisoning
+0,1,1,0,0,0,1,1,1,Heart Condition
+1,0,1,1,1,0,0,0,0,Food Poisoning
+0,1,1,0,0,0,0,0,0,Common Cold
+1,0,1,1,1,1,0,0,1,Food Poisoning
+1,1,1,0,0,1,1,0,0,COVID-19
+1,1,1,1,0,1,1,0,0,COVID-19
+0,1,1,0,0,0,1,1,1,Heart Condition
+1,0,1,1,1,0,0,1,1,Food Poisoning
+0,1,1,1,0,0,0,0,1,Migraine
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,0,0,0,1,1,1,1,Heart Condition
+1,1,0,1,0,1,1,0,0,COVID-19
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,1,1,1,0,1,1,0,0,COVID-19
+0,0,1,1,0,0,1,0,1,Anemia
+1,1,1,1,0,1,1,0,0,COVID-19
+0,0,1,0,1,0,0,0,1,Migraine
+0,1,1,1,0,1,0,0,0,Common Cold
+0,1,1,1,0,1,0,0,0,Common Cold
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,1,0,0,1,0,1,Anemia
+1,1,1,1,0,1,0,0,0,Flu
+1,1,1,1,0,1,0,0,0,Flu
+0,0,0,1,0,0,0,0,1,Anemia
+1,1,1,1,0,1,1,0,0,COVID-19
+0,1,1,1,0,1,0,0,0,Common Cold
+0,0,1,1,0,1,1,0,1,Anemia
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,1,1,1,0,1,1,0,0,COVID-19
+1,0,1,1,0,0,1,0,1,Anemia
+1,1,1,1,0,1,0,0,0,Flu
+1,0,0,1,1,0,1,0,1,Food Poisoning
+1,1,1,1,0,0,1,0,1,COVID-19
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,0,1,0,0,0,1,0,0,Heart Condition
+1,0,1,1,0,0,0,0,1,Food Poisoning
+0,0,1,1,0,0,0,0,1,Anemia
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,1,0,0,0,1,1,0,0,COVID-19
+0,1,1,1,0,1,0,0,0,Common Cold
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,0,0,1,1,0,0,0,1,Food Poisoning
+1,0,1,0,0,0,1,1,1,Heart Condition
+1,1,1,1,1,1,1,0,0,COVID-19
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,0,1,1,0,0,1,0,1,Anemia
+0,0,1,0,1,0,1,0,0,Anemia
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,1,1,1,0,1,0,0,0,Flu
+1,0,1,0,1,0,0,1,1,Food Poisoning
+1,1,1,1,0,1,0,0,0,Flu
+0,0,1,1,0,0,1,0,1,Anemia
+1,1,1,1,1,0,0,0,1,Food Poisoning
+0,0,0,1,0,0,1,0,1,Anemia
+0,1,0,1,1,0,0,0,1,Migraine
+0,1,1,1,0,1,1,0,1,COVID-19
+0,0,1,1,0,0,1,0,1,Anemia
+0,0,1,0,0,1,1,1,1,Heart Condition
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,0,1,1,0,0,1,1,1,Anemia
+0,0,1,1,1,0,0,1,1,Migraine
+1,0,1,0,0,0,1,1,1,Heart Condition
+0,0,1,1,0,0,1,0,1,Anemia
+1,0,1,1,1,0,0,0,0,Food Poisoning
+1,0,1,1,0,1,1,1,1,Anemia
+0,1,1,1,1,1,1,0,0,COVID-19
+1,1,1,1,0,1,0,0,0,Flu
+1,1,1,1,0,1,0,0,0,Flu
+0,1,1,1,1,0,0,1,1,Migraine
+1,1,1,1,0,1,1,1,0,COVID-19
+1,1,0,1,0,1,0,0,0,Flu
+1,1,0,1,1,0,0,1,1,Food Poisoning
+0,0,1,0,1,0,1,0,1,Anemia
+0,1,0,0,1,1,0,0,0,Common Cold
+1,0,0,1,1,0,0,0,1,Food Poisoning
+0,0,1,1,0,0,0,0,1,Migraine
+1,0,1,1,1,0,1,0,0,Food Poisoning
+1,1,0,0,1,1,1,0,0,COVID-19
+0,0,1,0,0,0,1,0,1,Heart Condition
+0,0,1,1,0,1,1,0,1,Anemia
+0,0,1,1,1,1,0,0,1,Migraine
+1,1,1,1,0,1,1,0,0,Flu
+0,0,1,1,0,0,1,1,0,Heart Condition
+0,0,1,1,1,0,1,0,1,Anemia
+0,0,1,1,1,0,0,0,1,Migraine
+1,1,1,0,0,0,0,1,0,Flu
+0,0,1,1,1,0,0,0,0,Migraine
+1,0,1,0,1,0,0,0,1,Food Poisoning
+0,0,1,1,0,0,1,0,1,Anemia
+0,1,1,1,0,1,0,0,0,Common Cold
+1,1,1,1,0,1,0,0,0,Flu
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,0,1,1,0,0,1,0,1,Anemia
+1,1,1,1,0,1,0,0,0,Flu
+0,1,1,1,0,1,0,0,0,Common Cold
+0,1,1,1,0,1,0,0,0,Common Cold
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,1,0,0,0,0,1,Anemia
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,1,1,1,0,1,0,0,0,Flu
+1,0,0,1,1,0,0,0,1,Food Poisoning
+1,1,1,1,1,1,1,1,0,COVID-19
+0,1,1,0,0,1,1,0,1,Heart Condition
+0,0,1,1,0,0,1,0,1,Anemia
+1,1,1,1,0,1,1,0,0,COVID-19
+0,1,1,1,0,1,0,0,0,Common Cold
+1,0,1,1,1,0,0,1,1,Migraine
+0,0,1,1,1,0,0,0,1,Migraine
+1,0,1,1,0,0,0,0,1,Food Poisoning
+0,0,1,1,1,1,0,0,1,Migraine
+0,1,1,1,0,1,0,0,0,Common Cold
+1,0,1,1,0,0,1,1,1,Heart Condition
+0,0,1,0,0,0,1,0,1,Anemia
+0,0,1,1,0,0,1,0,0,Anemia
+0,1,1,1,0,1,0,0,0,Common Cold
+1,1,1,1,0,1,1,1,0,COVID-19
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,1,1,0,0,0,1,Migraine
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,0,0,0,1,0,1,Anemia
+1,1,1,1,0,1,1,0,1,COVID-19
+1,1,1,1,0,1,0,0,0,Flu
+0,0,1,1,0,0,1,0,1,Anemia
+1,0,0,1,1,0,0,0,1,Anemia
+0,0,1,1,1,0,0,1,1,Food Poisoning
+1,1,0,1,0,1,1,0,0,COVID-19
+0,1,1,1,0,1,0,0,0,Common Cold
+0,0,1,0,1,0,0,0,1,Migraine
+0,1,1,1,0,1,0,0,0,Common Cold
+1,0,1,1,0,1,0,1,0,Flu
+0,0,0,1,1,1,0,0,1,Migraine
+1,0,0,1,1,0,0,0,1,Migraine
+0,1,1,1,0,0,1,0,1,Anemia
+1,1,1,1,0,1,0,0,0,Flu
+0,0,1,1,0,0,0,0,1,Anemia
+1,1,1,1,0,1,0,1,0,Flu
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,0,1,1,0,0,1,0,1,Anemia
+1,1,1,1,0,1,0,0,0,Flu
+0,0,1,1,0,0,0,0,1,Migraine
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,1,0,0,1,0,1,Anemia
+0,0,1,1,1,0,0,0,1,Food Poisoning
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,1,1,1,0,1,0,0,1,Flu
+0,0,1,1,1,0,0,1,1,Migraine
+1,1,1,1,0,1,0,1,0,Flu
+0,0,0,1,0,1,0,0,0,Flu
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,0,1,1,1,1,0,0,1,Migraine
+1,1,1,0,0,1,0,0,0,Common Cold
+0,1,1,1,0,1,0,0,0,Common Cold
+1,0,1,1,1,0,1,0,1,Food Poisoning
+1,0,1,1,0,1,1,0,0,COVID-19
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,1,1,1,0,1,1,0,0,COVID-19
+0,1,1,1,0,1,0,0,0,Common Cold
+0,0,0,1,1,0,0,0,1,Migraine
+0,0,1,0,1,0,0,0,1,Migraine
+1,1,1,1,0,0,0,0,0,Flu
+1,1,1,1,0,1,0,0,0,Flu
+1,1,1,1,0,1,1,0,1,COVID-19
+0,0,1,1,0,0,1,0,0,Anemia
+1,1,1,1,1,1,1,0,0,COVID-19
+0,1,1,1,0,1,0,0,0,Common Cold
+1,1,1,1,0,1,1,0,0,COVID-19
+0,1,1,0,0,0,0,1,1,Heart Condition
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,0,0,1,1,0,0,0,0,Food Poisoning
+0,1,1,1,0,0,0,0,0,Common Cold
+0,0,1,1,1,0,1,0,1,Anemia
+0,0,1,1,0,0,1,0,1,Anemia
+1,1,1,1,1,0,0,0,1,Food Poisoning
+1,1,1,1,0,1,1,0,0,COVID-19
+1,1,1,1,1,1,1,0,1,COVID-19
+1,0,1,1,1,1,0,1,1,Food Poisoning
+1,1,1,1,0,1,1,0,0,COVID-19
+1,0,1,1,1,1,0,0,1,Food Poisoning
+1,1,1,1,0,1,1,1,0,COVID-19
+0,0,1,1,0,0,0,0,1,Migraine
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,1,0,0,1,0,1,Anemia
+1,0,0,1,1,0,0,0,1,Food Poisoning
+1,0,1,1,1,0,0,0,0,Food Poisoning
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,1,1,0,0,1,1,1,0,Common Cold
+1,1,1,1,0,1,0,0,0,Flu
+0,1,1,1,1,0,0,0,1,Migraine
+0,1,1,1,0,1,0,0,0,Common Cold
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,1,1,0,0,1,0,0,0,Common Cold
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,1,1,1,0,0,1,1,1,Anemia
+1,1,1,1,0,1,0,0,0,Flu
+0,0,1,0,0,0,1,0,1,Heart Condition
+0,1,1,1,0,0,1,0,1,Anemia
+1,1,1,1,1,1,1,0,0,COVID-19
+1,0,1,1,0,1,0,0,0,Flu
+1,1,1,1,1,1,0,0,0,Flu
+1,1,0,1,0,1,1,0,1,Flu
+0,0,1,0,0,0,1,1,1,Anemia
+0,0,1,1,1,0,0,0,0,Migraine
+0,0,1,0,0,0,1,1,0,Heart Condition
+0,0,1,0,1,1,1,0,1,Migraine
+1,1,1,0,0,1,0,0,0,Flu
+0,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,1,0,0,1,0,1,Anemia
+0,1,1,1,0,0,1,0,1,Anemia
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,0,1,0,0,1,0,1,Heart Condition
+1,1,1,1,0,1,1,0,0,COVID-19
+1,1,1,0,0,1,1,0,1,COVID-19
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,0,1,1,0,0,1,0,1,Anemia
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,0,1,0,1,1,0,0,Common Cold
+0,1,1,1,0,1,0,0,0,Common Cold
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,0,1,1,0,0,0,0,1,Food Poisoning
+1,1,1,1,0,1,1,0,0,COVID-19
+0,0,0,1,0,0,1,1,1,Heart Condition
+1,1,1,1,0,1,1,0,0,COVID-19
+1,1,1,1,1,0,0,0,1,Migraine
+1,1,1,1,0,1,1,0,0,Flu
+0,1,1,1,0,1,1,0,0,Common Cold
+0,1,1,1,0,1,0,0,0,Common Cold
+0,0,1,1,1,1,0,0,1,Food Poisoning
+1,1,1,1,0,1,0,0,0,COVID-19
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,1,1,1,0,1,0,0,0,Common Cold
+0,0,1,1,0,0,1,0,1,Anemia
+1,0,0,1,1,0,0,0,1,Food Poisoning
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,0,1,1,0,0,0,0,1,Food Poisoning
+1,1,1,1,0,1,1,0,0,COVID-19
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,1,1,0,0,1,1,Migraine
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,0,1,1,0,0,1,0,1,Anemia
+1,1,0,1,0,1,0,0,0,COVID-19
+0,1,0,1,0,1,0,0,0,Flu
+0,0,1,0,0,0,1,0,1,Heart Condition
+0,1,1,1,0,1,1,0,0,Anemia
+1,1,1,1,0,1,0,0,0,Flu
+1,1,1,1,0,1,0,0,0,COVID-19
+0,1,1,1,0,1,1,0,1,COVID-19
+1,1,1,1,0,1,0,0,0,COVID-19
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,1,1,0,0,0,1,Migraine
+1,1,1,1,1,1,0,0,1,Flu
+0,0,1,1,1,0,0,0,1,Migraine
+1,1,1,1,0,0,1,0,0,COVID-19
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,1,1,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,1,Food Poisoning
+1,1,1,1,1,1,0,1,0,Flu
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,1,1,1,0,1,0,0,0,Flu
+1,1,1,1,0,1,1,1,0,COVID-19
+0,0,1,1,0,1,0,0,1,Migraine
+0,0,0,1,0,0,0,0,1,Anemia
+0,0,0,1,0,0,1,0,1,Anemia
+0,0,1,0,0,0,1,0,1,Anemia
+1,0,0,1,1,0,0,0,1,Food Poisoning
+0,0,0,1,0,0,1,0,1,Anemia
+0,0,1,1,0,0,0,0,1,Anemia
+0,1,1,1,0,1,0,0,0,Common Cold
+0,0,0,1,0,0,0,0,1,Anemia
+0,0,1,1,0,0,1,1,1,Anemia
+0,1,1,1,0,1,1,0,0,COVID-19
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,1,0,0,1,1,1,Heart Condition
+0,0,1,1,0,0,1,1,1,Anemia
+0,1,1,1,0,1,0,0,1,Common Cold
+1,1,1,1,0,1,0,0,0,Flu
+0,1,1,0,0,1,1,1,1,Heart Condition
+0,1,1,1,0,1,0,0,0,Common Cold
+0,0,1,0,0,0,1,0,1,Heart Condition
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,0,1,1,1,0,0,0,0,Migraine
+0,0,1,1,1,0,0,0,1,Migraine
+1,1,1,1,0,1,1,0,0,COVID-19
+0,1,1,1,0,1,0,0,0,Common Cold
+0,1,1,0,0,1,0,0,1,Flu
+1,1,1,1,0,1,0,0,0,Flu
+0,0,1,1,0,0,1,0,1,Anemia
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,1,1,1,0,1,1,0,0,COVID-19
+1,1,0,1,0,0,1,0,1,COVID-19
+0,1,1,1,1,1,0,0,0,Common Cold
+1,1,1,1,0,1,0,0,0,Flu
+0,0,1,1,0,0,1,0,1,Anemia
+1,1,1,1,0,1,0,0,0,Flu
+1,1,1,1,0,1,1,0,0,COVID-19
+1,1,1,1,0,1,0,0,0,Common Cold
+1,0,1,0,0,0,1,1,1,Heart Condition
+1,1,1,1,0,1,1,0,0,COVID-19
+0,0,1,1,1,0,0,0,1,Migraine
+1,0,1,1,0,0,1,0,1,Food Poisoning
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,0,0,1,1,1,1,Heart Condition
+1,1,1,1,0,1,1,0,0,COVID-19
+1,1,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,1,1,0,0,1,1,Food Poisoning
+0,0,1,1,0,0,1,0,1,Anemia
+1,1,1,1,0,1,0,0,0,Flu
+1,1,0,1,0,1,0,1,0,Flu
+0,0,1,0,0,1,1,1,1,Heart Condition
+1,0,1,1,1,0,0,1,1,Food Poisoning
+1,0,0,1,1,0,1,0,1,Food Poisoning
+0,1,1,1,0,1,0,0,0,Common Cold
+0,0,1,1,1,0,0,0,1,Migraine
+1,1,1,1,0,1,1,0,0,COVID-19
+0,0,1,1,0,0,1,0,1,Anemia
+0,0,1,1,0,0,1,0,1,Anemia
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,1,1,1,0,1,1,0,0,COVID-19
+1,1,1,1,0,1,0,0,0,Flu
+1,1,1,0,0,1,0,0,1,Flu
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,1,0,0,0,1,1,Food Poisoning
+1,1,1,1,0,1,1,0,1,COVID-19
+1,0,1,1,1,0,0,1,1,Food Poisoning
+0,1,1,1,0,1,1,0,0,COVID-19
+1,1,1,1,0,1,0,0,1,Flu
+0,0,1,0,0,1,1,0,1,Heart Condition
+0,0,1,0,0,0,1,1,0,Heart Condition
+0,0,1,1,1,0,0,0,1,Migraine
+1,0,1,0,0,0,1,1,1,Heart Condition
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,1,1,1,0,1,1,0,0,COVID-19
+0,1,1,1,0,1,0,0,0,Common Cold
+0,0,1,1,1,0,1,0,1,Anemia
+1,0,1,1,1,1,0,0,1,Migraine
+0,0,1,1,1,0,1,0,1,Anemia
+0,1,1,1,0,1,0,1,0,Common Cold
+1,0,1,1,1,0,0,0,1,Migraine
+1,1,1,1,1,1,1,0,0,COVID-19
+0,0,1,1,1,0,0,0,1,Migraine
+1,1,0,1,0,1,1,0,0,COVID-19
+1,1,0,0,0,1,1,0,0,COVID-19
+0,0,0,1,0,0,1,0,1,Anemia
+0,1,1,1,0,1,0,0,0,Common Cold
+0,1,1,1,1,0,0,0,1,Migraine
+0,0,1,0,1,0,1,1,1,Heart Condition
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,1,1,1,1,1,0,0,0,Flu
+0,0,1,1,0,0,1,0,1,Anemia
+1,1,1,1,0,1,1,0,1,Flu
+1,1,1,1,1,1,0,0,1,Flu
+1,0,0,0,0,0,1,1,1,Heart Condition
+0,0,1,1,1,1,0,1,1,Migraine
+1,1,1,1,1,1,1,0,0,COVID-19
+0,0,0,1,0,1,1,0,1,Anemia
+0,0,1,1,0,0,0,0,1,Migraine
+0,0,1,1,1,0,1,1,1,Migraine
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,1,1,1,0,1,0,0,0,Flu
+0,0,1,1,1,0,0,0,1,Food Poisoning
+0,1,1,1,0,0,1,1,1,Heart Condition
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,0,1,0,1,0,0,0,0,Migraine
+1,1,1,1,0,1,1,1,0,COVID-19
+0,1,1,1,0,1,0,0,0,Common Cold
+1,1,1,1,0,1,0,0,0,Common Cold
+0,0,1,1,1,0,0,0,1,Migraine
+1,0,1,0,1,0,0,0,0,Food Poisoning
+1,1,1,1,0,1,1,0,0,COVID-19
+0,0,1,1,0,0,1,0,1,Anemia
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,0,0,0,1,0,1,Anemia
+1,1,1,1,0,1,0,0,0,Flu
+1,1,1,1,0,1,1,0,0,Common Cold
+1,1,1,1,0,1,0,0,0,Flu
+0,0,1,1,0,0,1,0,1,Anemia
+0,1,1,1,0,1,0,0,0,Common Cold
+0,0,1,1,1,0,0,0,1,Migraine
+1,1,1,1,0,1,0,0,0,Flu
+0,0,1,0,0,0,1,0,1,Heart Condition
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,1,1,1,0,1,0,0,0,Common Cold
+0,0,1,1,1,0,1,0,0,Migraine
+0,1,1,1,1,0,0,0,1,Migraine
+1,0,1,0,1,1,0,0,0,Flu
+1,1,0,1,0,1,0,0,0,Common Cold
+0,0,1,0,0,0,0,0,1,Anemia
+0,0,1,1,1,0,1,0,1,Anemia
+0,1,0,1,0,0,0,1,0,Common Cold
+0,1,1,1,0,0,0,0,1,Migraine
+1,0,0,1,1,0,0,0,1,Food Poisoning
+1,0,1,1,1,0,1,1,1,Food Poisoning
+0,0,1,1,0,1,1,0,0,Anemia
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,0,1,0,1,0,1,0,1,Migraine
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,1,1,0,0,0,1,Food Poisoning
+1,1,1,1,1,1,0,0,0,Flu
+1,1,1,1,0,1,1,0,1,COVID-19
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,1,1,1,0,1,0,0,0,COVID-19
+0,0,1,0,1,0,0,1,0,Heart Condition
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,1,1,0,0,0,1,1,1,Heart Condition
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,1,1,1,0,1,0,0,0,Common Cold
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,1,1,1,0,1,0,0,0,Flu
+0,0,1,1,0,0,1,1,1,Anemia
+0,1,1,1,0,1,0,0,0,Common Cold
+0,0,1,0,0,0,0,1,1,Heart Condition
+0,0,1,0,1,1,0,0,1,Migraine
+0,0,1,1,0,0,1,0,1,Anemia
+1,0,1,1,0,1,1,0,1,COVID-19
+1,1,1,1,0,1,1,0,0,COVID-19
+0,1,1,1,0,0,1,0,1,Anemia
+0,0,1,1,0,0,1,0,1,Anemia
+1,1,1,1,1,1,1,0,0,COVID-19
+0,0,1,1,1,0,1,0,1,Anemia
+0,0,1,1,1,1,1,0,1,Migraine
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,0,1,0,0,0,0,1,1,Heart Condition
+1,1,0,1,0,1,0,0,0,Flu
+0,0,1,1,1,0,0,0,1,Migraine
+1,1,1,1,0,1,0,0,0,Flu
+0,0,1,0,0,0,1,0,0,Anemia
+0,0,1,0,1,0,1,1,1,Heart Condition
+1,1,1,1,1,0,0,0,0,Food Poisoning
+0,0,1,0,0,0,1,0,1,Heart Condition
+1,1,0,1,0,0,1,0,1,COVID-19
+1,1,1,1,0,1,1,0,0,COVID-19
+0,1,1,1,0,1,0,0,0,Common Cold
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,1,1,1,0,1,1,1,0,Flu
+1,1,1,1,0,1,0,0,0,Flu
+0,0,1,1,1,0,0,0,1,Migraine
+1,1,1,1,0,1,0,0,0,Flu
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,0,1,1,0,1,0,0,0,Common Cold
+0,1,0,1,0,1,0,0,0,Common Cold
+1,1,1,1,0,0,0,0,0,Common Cold
+1,1,1,1,1,0,0,0,1,Food Poisoning
+1,1,1,1,0,1,0,1,0,Flu
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,1,1,1,0,1,1,0,0,COVID-19
+1,1,1,1,1,1,1,0,0,COVID-19
+0,0,1,1,1,0,0,0,1,Migraine
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,1,1,1,0,1,0,0,0,Common Cold
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,0,0,0,1,0,1,Anemia
+0,0,1,1,0,0,1,0,1,Anemia
+1,0,1,1,1,0,1,1,0,Food Poisoning
+0,0,1,0,0,1,0,0,0,Common Cold
+1,0,1,1,1,0,0,0,0,Migraine
+0,0,1,0,0,0,0,1,1,Heart Condition
+1,0,1,1,0,1,1,0,0,COVID-19
+0,1,1,0,0,0,1,1,1,Heart Condition
+1,1,0,1,0,1,0,0,0,Flu
+0,0,1,1,0,1,1,0,1,Anemia
+1,1,0,1,1,1,1,0,0,Flu
+0,0,1,1,1,0,0,0,1,Migraine
+0,1,1,0,0,1,1,0,0,Common Cold
+0,0,0,1,1,0,0,0,1,Migraine
+1,0,1,0,1,0,1,0,1,Food Poisoning
+0,0,1,1,0,0,1,0,1,Anemia
+1,0,1,1,0,1,0,0,0,Flu
+0,1,1,1,0,1,0,0,0,Common Cold
+0,1,1,1,0,0,1,0,1,Anemia
+0,1,1,0,0,1,1,1,1,Heart Condition
+0,0,1,1,1,0,0,0,0,Migraine
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,1,1,1,1,0,1,0,0,COVID-19
+1,0,1,0,0,1,1,0,0,COVID-19
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,1,0,0,1,0,1,Anemia
+0,0,1,1,0,0,1,0,1,Anemia
+1,1,1,1,1,1,0,0,1,Food Poisoning
+0,1,1,1,0,1,0,0,0,Common Cold
+0,0,1,0,0,0,1,1,0,Heart Condition
+0,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,1,1,0,1,0,1,Anemia
+0,0,1,0,1,0,0,0,1,Migraine
+0,1,1,1,0,1,0,0,0,Common Cold
+0,1,1,0,0,1,0,1,1,Common Cold
+0,1,0,1,0,1,0,0,0,Flu
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,1,1,0,0,0,1,Migraine
+1,0,1,0,1,0,1,1,1,Heart Condition
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,0,0,1,1,1,1,Heart Condition
+0,0,1,1,0,0,1,0,1,Anemia
+1,1,1,0,0,1,0,0,0,Flu
+0,1,0,1,0,1,0,0,0,Common Cold
+1,1,1,1,0,1,1,0,0,COVID-19
+1,0,1,1,1,0,0,1,1,Food Poisoning
+0,0,1,0,0,1,1,1,1,Heart Condition
+0,0,1,1,0,0,0,0,0,Flu
+0,0,1,1,1,0,0,0,1,Migraine
+1,0,1,0,0,0,1,1,1,Heart Condition
+0,1,1,0,0,1,0,0,0,Common Cold
+0,0,1,1,0,0,1,0,1,Anemia
+0,0,1,1,0,0,1,0,1,Anemia
+1,1,1,1,0,1,0,1,0,Flu
+0,0,0,1,0,0,0,0,1,Anemia
+0,1,1,1,0,1,0,0,1,Common Cold
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,1,0,0,1,1,1,Anemia
+1,0,0,1,1,0,0,0,1,Food Poisoning
+0,0,1,1,1,0,1,1,1,Anemia
+0,1,1,1,0,0,0,0,0,Common Cold
+0,0,1,0,1,0,0,0,0,Migraine
+0,0,1,1,0,0,1,0,1,Anemia
+0,0,1,1,0,0,1,1,1,Anemia
+1,0,1,0,1,0,0,0,1,Food Poisoning
+1,1,1,1,0,1,1,0,0,COVID-19
+1,1,1,1,0,1,0,0,0,Flu
+0,1,1,1,0,1,0,0,0,Common Cold
+0,0,1,1,0,0,0,0,1,Anemia
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,1,1,0,0,0,1,Food Poisoning
+1,0,0,1,1,0,0,0,1,Food Poisoning
+1,0,1,1,1,0,1,0,1,Food Poisoning
+0,0,1,1,0,0,1,0,1,Anemia
+0,1,0,1,1,0,0,0,1,Migraine
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,1,1,1,0,1,0,0,1,Flu
+1,1,1,1,0,0,1,0,0,COVID-19
+0,0,1,1,1,0,1,0,1,Migraine
+0,0,1,1,0,0,1,0,1,Anemia
+0,0,1,0,0,0,1,0,1,Heart Condition
+0,0,1,0,0,0,0,0,1,Anemia
+0,1,0,0,0,0,1,1,1,Heart Condition
+1,1,1,1,0,1,0,0,0,Flu
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,1,1,1,0,0,1,Food Poisoning
+1,0,1,0,0,0,1,1,1,Heart Condition
+0,0,0,1,1,0,1,0,1,Migraine
+0,1,1,1,0,1,0,0,0,Common Cold
+1,0,1,1,0,0,1,0,1,Anemia
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,0,1,1,1,0,0,0,0,Food Poisoning
+1,1,1,0,1,1,0,0,0,Flu
+1,0,1,1,1,0,0,0,1,Migraine
+0,0,1,0,1,0,0,0,1,Migraine
+0,0,1,0,1,0,1,1,1,Heart Condition
+1,1,1,1,0,1,1,0,0,COVID-19
+0,1,1,0,0,0,1,1,1,Heart Condition
+0,0,1,1,1,0,0,1,1,Migraine
+0,0,1,1,0,0,1,0,1,Anemia
+1,1,1,1,0,1,0,0,0,Flu
+0,1,1,1,0,1,0,0,0,Flu
+1,0,1,1,1,1,0,0,1,Food Poisoning
+1,1,1,1,0,1,0,0,0,Common Cold
+0,1,0,1,0,1,1,0,1,COVID-19
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,0,1,0,0,0,1,Heart Condition
+0,0,1,1,0,0,1,0,1,Anemia
+0,0,1,1,0,1,1,0,1,Anemia
+0,0,1,1,0,0,1,1,1,Anemia
+1,0,1,1,0,1,0,0,1,Food Poisoning
+0,0,1,1,0,0,0,0,0,Migraine
+1,1,1,1,0,1,0,1,1,Common Cold
+0,0,1,1,0,0,1,1,1,Heart Condition
+0,0,1,0,0,1,0,0,0,Common Cold
+0,0,1,1,0,0,1,0,0,Anemia
+1,1,1,1,0,1,0,0,0,Flu
+0,0,0,1,1,0,1,0,1,Migraine
+1,1,0,1,0,1,1,1,0,COVID-19
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,1,1,1,0,1,0,0,0,Common Cold
+1,0,1,1,1,0,1,0,1,Food Poisoning
+0,0,1,0,0,0,1,0,1,Migraine
+1,1,1,1,0,1,1,0,1,COVID-19
+0,1,0,1,0,1,1,0,0,COVID-19
+0,1,1,1,0,1,0,0,0,Common Cold
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,1,0,0,1,0,0,Anemia
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,1,0,1,1,1,1,1,1,COVID-19
+1,1,0,1,0,0,0,0,0,Flu
+0,1,0,1,0,0,1,0,1,Anemia
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,0,1,1,0,0,0,0,0,Flu
+0,0,1,0,1,0,0,0,1,Migraine
+0,0,1,1,0,0,1,0,1,Anemia
+1,0,1,1,1,0,0,0,1,Migraine
+1,0,1,0,0,1,0,0,0,Flu
+1,1,1,1,0,0,0,0,0,Common Cold
+0,0,1,0,1,0,1,1,1,Heart Condition
+1,0,1,1,0,1,1,1,0,COVID-19
+1,1,1,1,0,1,0,0,0,Flu
+0,0,0,1,1,0,1,0,1,Anemia
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,1,1,1,0,1,0,0,0,Flu
+1,1,1,1,0,1,0,0,0,Flu
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,1,1,0,0,0,1,Migraine
+1,1,1,1,1,1,0,0,0,Flu
+1,1,1,1,0,0,0,0,0,Flu
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,0,1,0,1,0,0,Anemia
+1,1,1,1,0,1,1,1,0,COVID-19
+0,1,1,1,0,1,0,0,0,Common Cold
+1,0,1,1,0,1,0,0,1,Flu
+1,1,1,1,0,1,0,0,0,Flu
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,1,0,0,1,0,1,Anemia
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,1,1,1,0,1,1,0,0,COVID-19
+0,0,1,0,1,0,0,0,1,Migraine
+0,0,1,0,1,0,0,1,1,Heart Condition
+1,1,1,1,0,1,1,0,0,Common Cold
+0,0,1,0,1,0,0,1,1,Heart Condition
+1,1,1,1,0,1,0,0,0,Flu
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,1,0,0,1,0,1,Anemia
+0,1,1,1,0,1,0,0,0,Common Cold
+1,1,0,1,0,1,0,0,0,Flu
+0,1,1,1,0,1,1,0,0,Common Cold
+0,1,1,0,0,0,1,1,1,Heart Condition
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,0,1,1,0,1,0,0,1,Flu
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,1,1,1,0,0,1,0,1,Anemia
+0,0,1,0,0,1,1,1,1,Heart Condition
+1,0,1,1,0,0,0,0,1,Food Poisoning
+0,0,0,1,0,0,1,0,1,Anemia
+0,1,1,1,0,1,0,0,0,Common Cold
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,0,1,0,0,1,0,1,Anemia
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,1,1,1,0,1,1,0,0,COVID-19
+0,0,1,1,0,0,1,1,1,Heart Condition
+1,1,0,1,0,0,0,0,1,Food Poisoning
+0,1,1,0,1,1,0,1,0,Common Cold
+0,1,1,1,0,1,0,0,0,Common Cold
+1,1,1,1,0,1,0,0,0,Flu
+1,1,1,1,0,1,1,0,1,COVID-19
+1,1,1,1,0,1,0,0,0,Flu
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,0,1,1,0,0,1,1,1,Heart Condition
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,1,1,0,0,0,0,Food Poisoning
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,1,0,1,0,1,0,1,0,Common Cold
+0,1,1,1,0,1,0,0,0,Flu
+0,0,1,0,0,0,0,1,1,Heart Condition
+0,0,1,1,1,0,0,0,0,Migraine
+0,1,1,1,0,1,0,0,0,Common Cold
+1,1,1,1,0,1,1,0,0,COVID-19
+0,0,1,1,1,0,0,0,1,Migraine
+1,1,1,1,0,1,0,1,1,Flu
+1,1,1,1,0,0,1,0,0,COVID-19
+0,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,1,0,0,1,1,1,Anemia
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,1,1,1,0,1,0,0,0,Flu
+0,0,1,0,0,1,0,0,1,Anemia
+0,0,1,1,0,1,0,0,0,Migraine
+1,0,1,0,0,1,1,1,1,COVID-19
+0,1,1,1,0,1,1,0,1,COVID-19
+0,1,1,0,1,0,1,1,1,Heart Condition
+1,1,1,1,0,1,1,0,0,COVID-19
+0,0,1,1,0,0,0,1,1,Migraine
+1,0,1,0,0,0,0,0,0,Flu
+0,0,1,1,0,0,1,1,1,Anemia
+0,0,0,1,0,0,1,0,0,Anemia
+1,0,1,1,0,0,1,0,1,Anemia
+1,0,0,1,1,0,0,0,1,Food Poisoning
+1,0,1,0,1,0,0,0,1,Food Poisoning
+1,1,1,0,1,1,0,0,0,Flu
+1,1,1,1,1,1,0,0,0,Flu
+1,1,1,1,0,0,0,0,0,Flu
+1,1,0,0,0,1,1,1,0,COVID-19
+1,0,1,1,0,0,1,1,1,Anemia
+0,0,1,1,1,0,1,0,1,Migraine
+0,0,1,1,1,0,1,0,1,Anemia
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,0,0,0,0,1,0,1,Heart Condition
+0,1,1,1,0,0,0,0,0,Common Cold
+0,0,1,1,0,0,1,0,0,Anemia
+0,0,1,0,1,0,0,0,1,Migraine
+1,1,1,1,0,1,0,0,0,Flu
+1,1,1,1,0,1,0,0,0,COVID-19
+1,0,1,1,0,1,1,0,0,COVID-19
+1,1,1,0,0,1,0,0,0,Flu
+1,1,1,1,0,1,1,1,0,COVID-19
+1,1,1,1,0,0,0,0,0,Food Poisoning
+1,1,1,1,0,1,1,0,1,COVID-19
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,1,1,1,0,1,0,0,0,Flu
+0,1,0,1,1,0,0,0,1,Migraine
+0,1,1,1,0,1,0,0,0,Common Cold
+0,1,1,1,0,1,0,0,0,Common Cold
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,1,1,1,0,1,1,1,0,COVID-19
+1,1,1,0,0,1,0,0,0,Flu
+1,1,1,1,0,1,1,0,0,COVID-19
+1,1,1,1,1,1,0,0,0,Flu
+1,1,1,1,0,1,1,0,0,COVID-19
+0,0,1,1,0,0,1,0,0,Anemia
+0,0,1,1,0,0,1,0,0,Anemia
+1,1,1,0,0,1,0,0,0,COVID-19
+0,0,1,1,0,0,1,0,1,Anemia
+1,0,1,1,0,0,1,0,0,COVID-19
+1,1,1,1,0,1,0,0,0,Flu
+1,1,1,1,0,1,1,0,0,COVID-19
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,1,0,0,0,0,1,Migraine
+0,0,1,1,0,0,1,0,1,Anemia
+0,0,0,1,1,0,0,0,1,Migraine
+1,1,1,1,0,0,1,0,0,COVID-19
+0,1,0,0,0,1,0,1,1,Anemia
+0,0,1,1,0,1,1,0,1,Anemia
+0,0,1,1,0,0,1,0,0,Anemia
+1,1,1,1,0,1,0,0,0,Flu
+0,0,1,1,0,0,1,0,1,Anemia
+1,0,1,1,1,1,0,0,1,Food Poisoning
+0,1,1,1,0,0,0,0,0,Common Cold
+0,0,1,0,1,0,1,1,1,Heart Condition
+1,0,1,0,0,0,1,1,1,Heart Condition
+1,1,1,1,0,1,0,0,0,Flu
+1,1,0,1,1,1,0,0,1,Food Poisoning
+1,1,1,1,0,1,0,0,1,Flu
+0,0,0,1,0,0,1,1,1,Heart Condition
+0,1,1,1,0,1,0,0,0,Common Cold
+1,0,1,0,0,0,1,1,1,Heart Condition
+0,0,1,1,0,0,1,0,1,Anemia
+1,0,0,0,0,0,0,0,1,Food Poisoning
+0,0,0,0,0,0,1,1,1,Heart Condition
+1,0,1,1,1,1,0,0,1,Food Poisoning
+0,0,1,1,0,0,1,1,1,Heart Condition
+0,1,1,0,0,0,1,0,1,Anemia
+0,1,1,1,0,1,0,1,1,Common Cold
+0,0,1,1,1,0,1,0,1,Anemia
+1,0,1,0,0,0,1,1,1,Heart Condition
+1,1,1,1,0,1,1,0,0,COVID-19
+1,1,1,1,0,1,1,0,1,COVID-19
+1,1,1,1,0,1,1,0,0,COVID-19
+0,1,1,1,0,0,0,0,0,Common Cold
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,1,1,1,0,0,1,0,0,COVID-19
+0,0,1,1,0,0,1,0,1,Anemia
+0,1,1,1,0,1,0,0,0,Common Cold
+0,0,1,1,1,0,0,0,1,Food Poisoning
+0,1,1,1,1,0,1,0,1,Anemia
+1,1,1,1,0,1,0,0,1,Common Cold
+1,1,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,1,0,1,0,1,0,Common Cold
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,0,1,1,0,0,0,0,1,Migraine
+1,1,1,1,0,1,1,1,0,COVID-19
+1,1,1,1,0,1,1,0,0,COVID-19
+0,0,1,1,1,0,0,1,1,Food Poisoning
+0,0,1,1,1,1,0,0,1,Migraine
+1,0,1,1,1,1,0,0,0,Flu
+0,0,1,0,0,1,1,1,1,Anemia
+1,1,1,1,0,1,1,0,0,Flu
+0,0,1,1,0,1,1,0,0,COVID-19
+1,1,1,1,0,1,1,0,0,COVID-19
+0,0,1,1,0,0,1,0,1,Anemia
+0,0,1,1,0,1,1,0,1,Anemia
+1,1,0,1,0,0,0,0,0,COVID-19
+1,1,0,1,1,1,0,0,0,Flu
+0,1,1,1,0,1,0,0,0,Common Cold
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,1,1,0,0,1,0,0,0,Flu
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,1,0,0,0,0,1,Migraine
+0,0,1,1,1,0,0,0,1,Migraine
+1,0,1,1,0,1,0,0,0,Flu
+0,0,1,1,1,0,0,1,1,Migraine
+1,1,1,1,0,1,1,0,0,COVID-19
+0,0,1,0,1,0,1,1,1,Heart Condition
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,0,0,1,1,0,0,0,1,Food Poisoning
+0,0,1,1,0,0,1,0,1,Anemia
+0,1,1,1,0,0,0,1,0,Common Cold
+1,0,1,0,1,1,0,0,1,Food Poisoning
+0,1,1,1,1,0,0,0,1,Migraine
+0,1,1,1,0,1,0,1,0,Common Cold
+0,0,1,1,0,0,0,1,1,Heart Condition
+0,0,1,0,0,0,1,1,0,Heart Condition
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,1,1,1,0,1,1,0,1,COVID-19
+0,0,1,0,0,0,0,1,1,Heart Condition
+1,0,1,1,0,1,0,0,0,Flu
+0,1,1,1,0,1,0,0,0,Common Cold
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,1,1,1,0,1,1,0,0,Common Cold
+0,0,1,1,0,0,1,0,1,Anemia
+0,1,1,1,0,1,0,0,0,Common Cold
+0,0,1,1,0,0,1,0,1,Anemia
+1,0,1,1,0,0,0,0,1,Food Poisoning
+0,0,1,1,0,0,1,0,1,Anemia
+1,1,0,1,0,1,1,0,0,COVID-19
+1,0,1,1,1,0,0,1,1,Food Poisoning
+1,0,1,1,1,1,0,0,1,Food Poisoning
+1,0,1,1,0,0,0,0,1,Anemia
+0,1,1,1,0,1,0,0,1,Common Cold
+1,1,1,1,0,1,0,0,0,Flu
+0,0,1,1,1,0,0,0,1,Food Poisoning
+1,1,1,1,0,1,0,0,0,Flu
+1,1,1,0,1,0,0,0,1,Food Poisoning
+0,0,1,1,1,0,0,0,1,Migraine
+0,1,1,1,0,1,0,0,0,Common Cold
+0,0,0,1,1,0,0,0,1,Food Poisoning
+0,0,1,1,1,1,0,0,1,Migraine
+0,1,1,0,0,1,0,0,0,Common Cold
+0,0,0,0,1,0,0,0,1,Migraine
+0,1,0,1,1,0,0,0,1,Migraine
+1,1,1,1,0,1,1,0,1,COVID-19
+0,0,1,0,1,0,0,0,1,Anemia
+0,0,1,0,0,0,0,1,1,Heart Condition
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,1,1,0,0,0,1,Food Poisoning
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,1,1,1,0,1,0,0,0,Common Cold
+1,1,1,1,0,1,0,0,0,Flu
+1,1,0,1,0,1,0,1,0,Flu
+1,0,1,1,1,1,0,0,1,Food Poisoning
+1,1,1,0,0,1,0,0,1,Flu
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,1,0,0,1,0,1,Anemia
+1,1,1,1,0,1,0,0,0,Common Cold
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,0,1,1,1,0,1,0,1,Food Poisoning
+1,1,1,1,0,1,1,0,0,COVID-19
+1,1,1,1,0,1,1,0,0,COVID-19
+1,1,1,1,1,1,1,0,0,COVID-19
+0,1,1,1,0,0,0,0,0,Common Cold
+1,0,1,1,0,1,0,0,0,Flu
+0,1,0,1,0,0,0,0,1,Common Cold
+1,1,1,1,0,1,1,0,0,COVID-19
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,1,1,1,0,1,1,0,1,Food Poisoning
+1,1,1,1,0,1,0,0,0,Flu
+0,0,1,1,1,0,1,0,1,Anemia
+0,0,1,1,1,0,0,0,1,Migraine
+1,1,1,1,1,0,1,0,1,Migraine
+1,1,1,1,0,1,0,0,0,Common Cold
+1,0,1,1,0,0,1,0,1,Anemia
+1,0,1,1,1,1,0,1,1,Food Poisoning
+1,1,1,1,0,1,1,0,0,COVID-19
+1,1,0,1,0,1,1,0,0,COVID-19
+0,0,1,1,0,0,1,0,1,Anemia
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,0,1,1,1,0,0,0,1,Migraine
+0,1,1,1,0,1,0,0,1,Common Cold
+1,1,1,0,1,1,1,0,0,COVID-19
+0,1,1,1,1,1,0,0,0,Common Cold
+0,0,1,1,0,0,1,0,1,Anemia
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,0,0,0,1,0,1,Anemia
+0,1,1,1,0,0,1,1,1,Heart Condition
+0,1,1,0,0,1,0,0,0,Flu
+0,0,1,1,1,0,0,0,1,Migraine
+1,0,1,1,0,0,1,0,1,Anemia
+1,1,1,1,0,1,0,0,0,Flu
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,1,1,1,0,1,0,0,0,Common Cold
+0,0,0,1,1,0,0,0,0,Migraine
+1,1,0,1,0,1,0,0,0,Flu
+1,1,1,0,0,1,0,0,0,Flu
+1,1,0,1,1,1,1,0,0,COVID-19
+1,0,1,1,0,1,0,0,0,Flu
+0,0,1,1,0,0,1,0,1,Anemia
+0,1,1,1,0,1,0,0,0,Common Cold
+1,1,0,0,0,1,0,1,0,Flu
+0,1,1,1,1,0,0,1,1,Migraine
+0,0,1,1,1,0,0,0,1,Migraine
+1,1,1,1,0,1,1,0,1,Anemia
+1,1,1,1,0,1,1,1,0,COVID-19
+1,0,1,0,0,0,1,1,1,Heart Condition
+0,0,1,0,0,0,1,0,0,Heart Condition
+0,1,1,1,0,1,0,1,0,Common Cold
+1,1,1,1,0,1,0,0,0,Flu
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,0,1,1,1,0,0,0,0,Food Poisoning
+0,0,0,1,1,0,0,0,1,Migraine
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,0,1,1,1,0,1,0,1,Food Poisoning
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,0,1,1,1,0,0,0,1,Food Poisoning
+0,1,0,0,1,0,0,0,1,Migraine
+0,1,1,1,1,0,1,1,0,Common Cold
+1,0,1,0,1,0,0,0,0,Food Poisoning
+0,1,1,1,0,1,1,0,0,Common Cold
+1,1,1,1,0,0,0,0,0,Flu
+0,1,1,1,0,1,0,0,0,Common Cold
+0,0,1,1,0,0,1,0,1,Anemia
+1,0,0,1,1,0,0,0,1,Food Poisoning
+1,1,1,1,1,0,1,0,1,Food Poisoning
+0,1,1,1,0,0,0,0,1,Migraine
+1,1,1,1,0,1,0,0,0,Flu
+1,1,1,0,0,1,1,0,0,Flu
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,1,1,1,0,1,1,0,0,COVID-19
+0,1,1,1,1,0,0,0,1,Migraine
+0,0,1,1,0,0,1,0,1,Anemia
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,1,0,1,0,1,0,0,0,Flu
+1,0,0,1,1,0,0,0,1,Food Poisoning
+1,1,1,1,0,1,0,0,0,Flu
+0,0,1,1,0,0,1,0,1,Anemia
+1,1,1,1,0,1,1,0,1,COVID-19
+0,1,1,0,0,0,1,1,1,Heart Condition
+1,1,1,1,0,1,0,1,1,Flu
+0,0,1,0,1,0,0,0,1,Migraine
+0,1,1,1,1,1,1,1,0,COVID-19
+1,1,1,1,0,1,0,0,0,Flu
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,1,0,0,1,0,1,Anemia
+1,1,1,1,0,1,1,0,0,COVID-19
+0,0,1,1,1,1,0,0,1,Migraine
+0,0,1,0,1,1,0,0,1,Migraine
+0,0,0,1,0,0,1,1,1,Heart Condition
+1,1,1,1,0,1,0,0,0,Flu
+1,1,1,1,0,1,0,0,0,Flu
+1,1,1,1,0,1,0,0,0,Flu
+0,0,1,1,0,1,0,1,0,Common Cold
+1,1,1,1,0,1,1,0,0,COVID-19
+1,1,1,1,0,1,0,0,0,Flu
+0,1,1,1,0,1,0,0,0,Common Cold
+1,1,1,1,0,1,1,0,0,Flu
+1,0,1,1,1,0,0,0,1,Migraine
+0,1,1,1,1,0,0,0,1,Migraine
+0,0,1,1,0,0,0,0,1,Migraine
+0,1,1,1,0,1,1,0,0,Common Cold
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,1,1,1,1,1,1,0,1,COVID-19
+1,0,1,1,0,0,0,0,1,Food Poisoning
+0,1,1,1,0,1,0,0,0,Common Cold
+1,1,1,0,0,0,0,1,0,Flu
+0,1,0,1,0,1,0,0,0,Common Cold
+1,1,1,1,0,0,1,0,0,COVID-19
+0,0,1,1,0,0,1,0,1,Anemia
+1,0,1,1,0,0,1,0,1,Anemia
+0,1,1,1,0,1,1,0,0,Common Cold
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,1,1,0,0,1,1,Migraine
+1,1,0,1,0,1,1,0,0,COVID-19
+1,1,1,0,0,1,0,0,0,Flu
+0,1,1,1,0,1,0,0,0,Common Cold
+0,0,1,1,0,0,1,0,1,Anemia
+1,1,1,0,0,1,0,0,0,Flu
+0,0,1,1,0,0,1,0,1,Anemia
+0,0,0,1,1,0,1,1,1,Anemia
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,1,0,0,1,1,1,Anemia
+1,1,1,0,0,1,0,0,0,Flu
+0,1,1,1,0,1,0,0,0,Common Cold
+1,1,1,1,0,1,1,0,0,Flu
+0,0,1,0,0,0,1,1,0,Heart Condition
+1,1,1,1,1,1,1,0,1,COVID-19
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,1,1,0,0,0,1,Food Poisoning
+0,1,1,1,0,1,0,0,0,Common Cold
+0,1,1,1,0,1,0,0,0,Common Cold
+0,0,1,1,1,0,1,0,0,Anemia
+1,1,1,1,0,1,0,0,0,Flu
+0,1,1,1,0,0,0,0,0,Common Cold
+0,0,1,0,0,0,1,0,1,Heart Condition
+0,0,1,0,0,1,1,1,1,Heart Condition
+1,0,1,1,0,1,1,0,0,Flu
+0,0,1,1,0,0,1,0,1,Anemia
+1,0,0,1,0,1,0,0,0,Flu
+0,0,1,0,1,0,1,1,1,Heart Condition
+1,1,1,1,0,1,1,0,0,COVID-19
+1,0,1,1,0,0,1,0,1,Anemia
+0,1,0,1,0,1,0,1,0,Common Cold
+1,1,1,1,0,1,0,1,0,Flu
+0,0,1,1,0,0,0,0,1,Migraine
+1,0,1,1,1,1,0,0,1,Food Poisoning
+0,1,1,1,0,1,0,0,0,Common Cold
+0,0,1,1,0,0,1,0,1,Anemia
+0,0,1,1,0,0,0,1,1,Migraine
+0,0,1,1,0,0,0,0,1,Anemia
+0,0,1,1,0,1,0,0,1,Common Cold
+1,1,0,1,0,1,1,0,0,COVID-19
+1,1,0,1,0,1,0,0,0,Flu
+1,1,1,1,0,1,0,1,0,Flu
+1,0,1,1,1,0,0,1,1,Food Poisoning
+0,1,1,1,1,0,0,1,1,Migraine
+1,1,0,1,1,1,1,0,0,COVID-19
+0,1,1,1,0,1,0,0,0,Common Cold
+0,1,1,0,0,0,1,1,1,Heart Condition
+1,0,1,0,0,0,1,0,1,Heart Condition
+1,1,1,1,0,1,1,0,0,COVID-19
+1,1,0,1,0,1,1,1,0,COVID-19
+0,0,1,1,0,0,1,0,0,Anemia
+1,1,1,1,0,1,0,0,0,Flu
+1,1,1,1,0,1,1,0,0,Common Cold
+1,1,1,1,0,0,1,0,0,COVID-19
+1,1,1,1,1,0,0,0,1,Food Poisoning
+1,1,1,1,0,1,0,0,0,Flu
+1,0,1,1,1,0,1,0,1,Food Poisoning
+0,0,1,0,0,1,1,1,1,Heart Condition
+1,1,1,1,0,1,1,0,1,COVID-19
+1,1,1,1,1,0,0,0,1,Food Poisoning
+0,1,1,1,1,0,0,0,1,Migraine
+1,1,0,1,0,1,0,0,0,Common Cold
+0,0,0,1,1,0,0,0,1,Migraine
+0,1,1,1,0,1,0,1,0,Common Cold
+1,1,1,1,0,1,0,0,0,Flu
+1,1,1,1,0,1,0,0,1,COVID-19
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,1,1,1,0,1,1,0,0,Flu
+1,0,1,1,0,1,0,0,0,Flu
+1,1,1,1,0,1,0,0,0,Flu
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,0,1,1,1,0,0,1,1,Migraine
+1,1,1,1,0,1,1,0,0,COVID-19
+0,0,1,1,1,0,0,0,1,Migraine
+1,1,1,1,0,1,0,0,0,Flu
+1,1,1,1,0,0,1,0,1,COVID-19
+0,0,1,1,1,0,0,0,1,Migraine
+0,1,1,1,1,0,0,0,1,Migraine
+0,0,0,1,0,0,1,0,1,Anemia
+1,0,1,0,0,0,0,0,1,Migraine
+1,1,1,1,0,1,1,0,0,COVID-19
+1,0,1,0,0,0,1,1,1,Heart Condition
+0,0,1,1,0,1,1,0,0,COVID-19
+1,0,0,1,0,0,1,0,0,COVID-19
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,0,1,1,0,0,1,0,1,Anemia
+0,0,1,1,1,1,0,0,1,Food Poisoning
+0,0,0,1,0,0,0,0,1,Anemia
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,1,1,0,0,1,0,0,0,Flu
+0,1,1,1,1,1,0,0,0,Common Cold
+0,0,1,0,0,0,0,0,1,Heart Condition
+1,0,0,1,1,0,0,0,1,Food Poisoning
+0,1,1,1,0,1,0,0,0,Common Cold
+1,1,1,1,0,1,1,0,0,COVID-19
+1,1,1,0,0,1,1,0,0,COVID-19
+0,1,1,1,0,1,0,0,0,Common Cold
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,1,1,1,0,1,0,0,0,Flu
+0,1,1,1,0,1,0,0,0,Flu
+0,0,1,1,0,0,1,1,1,Anemia
+0,1,1,0,0,0,1,0,1,Heart Condition
+0,0,1,1,0,0,1,0,1,Anemia
+0,1,1,1,0,1,0,0,1,Common Cold
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,1,1,1,0,0,0,0,0,Common Cold
+0,0,1,1,0,0,1,0,1,Anemia
+0,1,1,1,1,0,0,0,0,Migraine
+1,1,1,1,0,1,1,0,0,COVID-19
+0,0,0,0,0,0,1,1,1,Heart Condition
+0,0,1,0,1,0,1,1,1,Heart Condition
+0,0,1,1,0,0,1,0,1,Anemia
+0,0,1,0,1,0,0,0,1,Migraine
+0,1,1,0,0,0,1,1,1,Heart Condition
+1,1,1,1,0,1,0,0,0,Flu
+0,1,1,1,0,1,0,1,0,Common Cold
+1,1,1,1,0,1,0,0,0,Flu
+1,1,0,1,0,1,1,0,0,COVID-19
+0,0,1,1,0,0,1,1,1,Anemia
+1,0,1,1,0,0,1,0,1,Food Poisoning
+0,1,1,1,0,1,0,0,0,Common Cold
+0,1,1,1,0,1,1,0,0,COVID-19
+1,1,1,1,0,1,0,0,1,COVID-19
+1,1,1,0,0,1,0,0,0,COVID-19
+1,0,1,1,1,1,0,0,1,Migraine
+1,0,1,1,1,0,1,0,1,Food Poisoning
+0,1,1,1,1,1,1,0,0,COVID-19
+1,1,1,1,0,1,1,0,0,COVID-19
+0,0,1,1,1,0,0,0,1,Migraine
+1,1,1,1,0,1,1,0,0,COVID-19
+0,0,1,0,1,0,1,1,1,Heart Condition
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,1,1,1,0,1,1,0,0,COVID-19
+1,1,1,1,0,1,0,1,0,Flu
+0,0,0,1,1,0,0,0,0,Migraine
+0,0,1,1,0,0,1,0,0,Anemia
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,0,1,1,0,0,0,0,0,Common Cold
+0,0,1,1,0,0,1,1,1,Heart Condition
+1,1,1,1,0,1,0,0,0,Flu
+0,1,1,1,0,1,0,0,0,Common Cold
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,1,1,1,0,1,1,0,0,COVID-19
+0,0,1,1,1,0,1,0,1,Food Poisoning
+0,0,1,1,1,0,0,1,1,Migraine
+0,0,1,1,0,0,1,0,0,Anemia
+0,1,1,1,0,0,1,1,1,Heart Condition
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,0,1,1,1,0,1,0,1,Anemia
+0,1,1,1,0,1,0,0,0,Common Cold
+1,1,1,1,0,1,1,0,0,COVID-19
+0,0,1,1,0,0,1,0,1,Anemia
+0,1,1,0,1,0,0,0,1,Migraine
+1,0,1,1,1,0,0,1,1,Food Poisoning
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,1,1,1,0,1,0,0,0,COVID-19
+1,1,1,1,0,1,0,0,1,Flu
+0,1,1,1,0,1,1,0,0,Common Cold
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,1,1,1,0,1,1,0,0,COVID-19
+1,1,1,1,0,1,0,0,0,Flu
+1,1,0,1,0,1,0,0,0,Flu
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,1,1,1,1,1,1,0,0,Common Cold
+1,1,1,1,0,1,1,0,0,COVID-19
+0,1,1,1,0,1,0,0,0,Common Cold
+0,1,1,0,0,1,1,0,1,Common Cold
+1,1,1,1,0,1,1,0,0,COVID-19
+0,0,1,1,1,0,0,0,1,Food Poisoning
+1,1,1,1,0,1,1,0,0,COVID-19
+1,1,0,1,0,1,0,0,0,Flu
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,1,1,1,1,1,0,1,0,Common Cold
+0,0,1,1,0,0,1,0,0,Anemia
+0,0,1,1,0,0,0,0,1,Migraine
+1,1,1,1,0,1,1,0,0,COVID-19
+0,1,0,1,0,1,1,0,0,COVID-19
+0,1,1,0,0,1,0,0,0,Common Cold
+1,1,1,1,0,1,0,0,0,Flu
+1,1,1,1,0,0,0,0,1,COVID-19
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,0,1,0,0,0,1,0,1,Heart Condition
+1,0,0,1,1,1,0,0,1,Food Poisoning
+0,0,1,0,0,1,0,1,1,Heart Condition
+0,1,0,1,1,0,1,0,1,Migraine
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,1,1,1,0,1,1,0,0,COVID-19
+1,0,1,1,0,1,0,0,1,Flu
+0,0,1,1,1,0,0,1,1,Migraine
+1,1,1,1,0,1,1,0,0,COVID-19
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,1,1,1,0,1,1,0,0,COVID-19
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,0,0,0,0,0,1,Migraine
+0,0,1,1,1,0,0,0,1,Migraine
+1,1,1,1,0,1,0,0,0,COVID-19
+0,0,1,1,1,0,0,0,0,Migraine
+1,0,0,0,0,1,0,1,1,Heart Condition
+0,0,1,1,1,0,0,0,1,Migraine
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,0,1,1,1,0,0,0,1,Migraine
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,0,1,1,0,0,0,0,1,Anemia
+1,1,1,1,0,1,0,0,0,COVID-19
+0,0,1,1,0,0,1,0,1,Anemia
+1,1,1,1,0,1,1,0,0,COVID-19
+0,0,0,1,0,0,1,1,0,Heart Condition
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,0,1,1,1,1,0,1,1,Food Poisoning
+1,0,1,0,1,0,0,0,1,Food Poisoning
+0,1,1,1,0,1,0,0,0,Common Cold
+0,0,0,0,0,0,1,0,1,Heart Condition
+0,0,1,1,1,1,1,0,0,COVID-19
+0,1,1,1,0,0,1,1,1,Heart Condition
+1,1,1,1,0,1,0,0,0,Flu
+1,1,1,1,0,0,1,0,0,COVID-19
+1,1,1,1,1,1,1,0,0,Flu
+0,0,1,1,1,0,1,0,1,Migraine
+0,0,1,1,0,0,1,1,1,Heart Condition
+1,0,1,1,0,1,0,0,1,Food Poisoning
+1,1,1,1,0,1,0,0,0,COVID-19
+0,0,1,1,1,0,1,0,1,Migraine
+0,1,1,1,0,1,1,0,0,COVID-19
+0,0,1,1,1,0,0,0,0,Food Poisoning
+0,0,1,0,1,0,1,1,1,Heart Condition
+0,1,1,1,0,1,0,0,0,Common Cold
+0,1,1,1,0,1,0,0,0,Common Cold
+0,1,1,1,0,1,0,0,0,Common Cold
+1,1,1,1,1,1,1,0,0,COVID-19
+0,0,1,1,1,0,0,0,1,Migraine
+0,1,1,1,0,1,0,0,0,Common Cold
+1,1,1,1,0,1,1,0,0,COVID-19
+0,0,1,1,0,1,1,0,1,Anemia
+0,0,1,1,1,0,0,1,1,Migraine
+0,0,1,0,0,0,1,0,1,Heart Condition
+0,1,1,1,1,1,0,0,0,Common Cold
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,0,1,1,0,1,1,0,1,Food Poisoning
+0,1,1,1,1,0,0,0,1,Migraine
+1,0,1,1,1,0,1,0,1,Food Poisoning
+1,0,0,1,0,0,0,0,1,Food Poisoning
+0,0,1,1,0,1,1,0,0,Flu
+0,1,1,1,1,1,0,1,1,Common Cold
+1,0,1,1,0,1,0,0,0,Flu
+0,0,1,1,1,0,0,0,0,Migraine
+1,1,0,1,0,1,0,0,0,COVID-19
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,0,1,1,0,0,1,0,1,Anemia
+1,0,1,1,1,0,0,0,0,Food Poisoning
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,0,1,1,1,0,1,1,1,Heart Condition
+0,0,1,0,0,0,1,0,1,Anemia
+0,0,0,0,0,0,1,1,1,Heart Condition
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,0,1,1,1,0,0,0,1,Migraine
+1,1,1,1,1,1,0,0,1,Food Poisoning
+0,0,1,1,1,0,0,0,1,Migraine
+0,0,1,0,1,0,0,0,1,Migraine
+1,0,1,1,1,0,0,0,1,Migraine
+0,1,1,0,0,1,0,0,0,Common Cold
+1,0,1,1,1,0,0,0,0,Food Poisoning
+1,0,1,1,0,1,1,0,0,COVID-19
+1,1,1,1,0,1,0,0,0,Flu
+0,0,0,1,1,0,0,0,1,Migraine
+1,1,1,1,0,1,0,0,0,Flu
+1,0,1,1,0,1,0,0,0,Flu
+1,1,1,1,0,1,0,0,0,Common Cold
+1,0,1,1,0,0,1,0,1,Anemia
+1,0,1,1,1,0,0,0,1,Migraine
+1,0,1,0,0,1,1,0,0,COVID-19
+1,1,1,1,0,1,0,0,0,Flu
+0,1,1,1,0,1,0,0,0,Flu
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,1,0,0,0,1,1,0,1,Anemia
+0,0,1,0,0,1,0,1,1,Heart Condition
+1,0,1,1,0,1,0,0,0,Flu
+0,0,1,1,1,1,0,1,1,Migraine
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,1,1,1,0,0,0,0,1,Common Cold
+1,1,1,1,0,1,0,1,0,Flu
+0,0,1,0,0,1,1,1,1,Heart Condition
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,0,0,0,1,0,1,Anemia
+0,0,1,1,0,0,1,1,0,Anemia
+0,1,1,1,1,0,0,0,1,Migraine
+1,0,1,1,0,1,0,0,0,Flu
+1,1,1,1,1,1,0,1,0,Common Cold
+0,0,0,1,1,0,0,0,1,Migraine
+0,0,0,0,0,0,0,1,1,Heart Condition
+0,0,1,1,0,0,1,0,1,Anemia
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,1,1,1,0,1,1,0,0,COVID-19
+0,1,1,1,1,1,0,0,0,Common Cold
+1,0,1,1,1,0,0,0,1,Food Poisoning
+1,1,1,1,0,1,0,1,0,Common Cold
+1,1,1,1,1,1,1,0,1,COVID-19
+0,0,1,1,0,0,1,0,1,Anemia
+0,0,1,1,0,0,1,0,1,Anemia
+0,0,1,1,0,0,1,0,1,Anemia
+1,1,1,0,1,0,0,0,1,Food Poisoning
+1,1,1,1,0,1,0,0,0,Flu
+1,0,1,1,0,0,1,0,1,Anemia
+0,0,1,0,1,0,0,0,1,Migraine
+0,0,1,1,0,0,1,0,1,Anemia
+0,0,1,1,0,0,1,0,0,Anemia
+1,1,1,1,1,0,0,1,0,Flu
+0,1,1,1,0,1,1,0,0,Common Cold
+1,1,1,1,1,1,0,0,0,Flu
+0,0,0,1,1,0,0,0,0,Migraine
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,1,0,1,0,1,0,0,0,Flu
+0,1,1,1,1,0,0,0,1,Food Poisoning
+1,1,1,1,0,0,1,0,0,Flu
+0,1,1,1,0,1,0,0,0,Common Cold
+0,1,1,1,0,0,0,0,0,Common Cold
+1,1,1,1,0,1,1,0,1,COVID-19
+1,0,1,1,1,0,0,0,1,Migraine
+1,1,1,1,0,1,0,0,0,Flu
+1,0,0,1,0,1,1,0,0,COVID-19
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,0,1,1,1,0,0,0,1,Migraine
+0,1,1,1,0,1,0,1,0,Common Cold
+1,1,1,1,0,1,1,0,0,COVID-19
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,1,1,1,0,0,1,0,0,COVID-19
+0,0,1,1,0,0,1,0,1,Anemia
+0,1,1,0,0,1,0,0,0,Common Cold
+0,0,1,1,0,0,1,0,1,Anemia
+1,1,0,1,0,1,0,0,1,Flu
+1,0,1,1,1,0,0,0,1,Migraine
+0,1,1,1,1,0,0,0,1,Migraine
+0,0,1,0,0,0,1,1,1,Heart Condition
+0,1,1,0,0,1,0,0,0,Common Cold
+1,1,1,1,0,1,1,0,0,COVID-19
+1,0,1,1,0,0,1,0,1,Anemia
+1,1,1,1,0,1,1,0,0,COVID-19
+1,1,1,1,0,1,0,0,0,Flu
+0,0,1,0,1,0,0,0,1,Food Poisoning
+0,1,1,1,0,0,1,1,1,Anemia
+1,0,1,1,0,0,0,1,1,COVID-19
+0,0,0,1,0,1,1,1,1,Heart Condition
+0,1,1,1,0,0,0,0,0,Common Cold
+0,0,1,1,1,0,0,1,1,Migraine
+1,0,1,0,1,0,1,0,1,Food Poisoning
+0,0,1,0,0,0,1,1,1,Heart Condition
+1,0,1,1,1,1,0,0,0,Migraine
+1,1,1,1,1,0,0,0,1,Food Poisoning
+1,0,1,1,1,0,0,0,1,Food Poisoning
+0,1,0,1,0,1,0,0,0,Flu
+0,1,1,1,0,0,0,0,0,Common Cold

@@ -37,7 +37,11 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
+<<<<<<< HEAD
 VIRTUAL_ENV="C:\Users\gayas\Downloads\project CC\healthcare_ai\venv"
+=======
+VIRTUAL_ENV="C:\Users\gayas\Downloads\project CC\venv"
+>>>>>>> 3d8a9bf0a4a8a71a043cda5bce0c5703466e6806
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

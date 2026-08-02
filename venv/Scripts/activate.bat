@@ -8,7 +8,11 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
+<<<<<<< HEAD
 set VIRTUAL_ENV=C:\Users\gayas\Downloads\project CC\healthcare_ai\venv
+=======
+set VIRTUAL_ENV=C:\Users\gayas\Downloads\project CC\venv
+>>>>>>> 3d8a9bf0a4a8a71a043cda5bce0c5703466e6806
 
 if not defined PROMPT set PROMPT=$P$G
 

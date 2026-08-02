@@ -1,0 +1,35 @@
+{% extends 'base.html' %}
+
+{% block title %}Contact Us | AI Healthcare{% endblock %}
+
+{% block content %}
+<div class="container py-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow border-0">
+                <div class="card-header bg-primary text-white p-4">
+                    <h3 class="mb-0">Contact Us</h3>
+                    <p class="mb-0 mt-1">We'd love to hear from you!</p>
+                </div>
+                <div class="card-body p-4">
+                    <form>
+                        <div class="mb-3">
+                            <label class="form-label">Full Name</label>
+                            <input type="text" class="form-control" required>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">Email address</label>
+                            <input type="email" class="form-control" required>
+                        </div>
+                        <div class="mb-4">
+                            <label class="form-label">Message</label>
+                            <textarea class="form-control" rows="5" required></textarea>
+                        </div>
+                        <button type="button" class="btn btn-primary btn-lg w-100" onclick="alert('Message Sent!')">Send Message</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
